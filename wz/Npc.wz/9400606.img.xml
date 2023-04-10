@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9400606.img">
+    <imgdir name="info">
+        <int name="forceMove" value="1" />
+        <int name="hideName" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="71" height="85">
+            <vector name="origin" x="26" y="82" />
+            <int name="z" value="0" />
+            <int name="delay" value="1200" />
+        </canvas>
+    </imgdir>
+    <imgdir name="move">
+        <canvas name="0" width="71" height="85">
+            <vector name="origin" x="26" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="71" height="85">
+            <vector name="origin" x="26" y="82" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="71" height="85">
+            <vector name="origin" x="26" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="71" height="85">
+            <vector name="origin" x="26" y="82" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <imgdir name="64169">
+            <string name="value" value="rock" />
+        </imgdir>
+        <imgdir name="stand">
+            <canvas name="0" width="74" height="85">
+                <vector name="origin" x="29" y="83" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+        <imgdir name="move">
+            <canvas name="0" width="74" height="85">
+                <vector name="origin" x="29" y="83" />
+                <int name="z" value="0" />
+            </canvas>
+            <canvas name="1" width="72" height="85">
+                <vector name="origin" x="27" y="82" />
+                <int name="z" value="0" />
+            </canvas>
+            <canvas name="2" width="74" height="85">
+                <vector name="origin" x="29" y="83" />
+                <int name="z" value="0" />
+            </canvas>
+            <canvas name="3" width="75" height="85">
+                <vector name="origin" x="30" y="82" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+</imgdir>

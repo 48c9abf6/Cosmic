@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9201604.img">
+    <imgdir name="info" />
+    <imgdir name="stand">
+        <canvas name="0" width="83" height="82">
+            <vector name="origin" x="49" y="80" />
+            <int name="delay" value="1000" />
+        </canvas>
+    </imgdir>
+</imgdir>

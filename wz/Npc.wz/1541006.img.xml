@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="1541006.img">
+    <imgdir name="info">
+        <int name="hide" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="48" height="75">
+            <vector name="origin" x="22" y="75" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="48" height="75">
+            <vector name="origin" x="22" y="75" />
+            <int name="z" value="0" />
+            <int name="delay" value="200" />
+        </canvas>
+        <canvas name="1" width="48" height="75">
+            <vector name="origin" x="22" y="75" />
+            <int name="z" value="0" />
+            <int name="delay" value="200" />
+        </canvas>
+        <uol name="2" value="0" />
+        <uol name="3" value="1" />
+        <uol name="4" value="0" />
+        <uol name="5" value="1" />
+        <uol name="6" value="1" />
+        <uol name="7" value="0" />
+    </imgdir>
+    <imgdir name="eye">
+        <canvas name="0" width="48" height="75">
+            <vector name="origin" x="22" y="75" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="48" height="75">
+            <vector name="origin" x="22" y="75" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="48" height="75">
+            <vector name="origin" x="22" y="75" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="special2">
+        <canvas name="0" width="54" height="56">
+            <vector name="origin" x="32" y="55" />
+            <int name="z" value="0" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+    <imgdir name="special3">
+        <canvas name="0" width="66" height="45">
+            <vector name="origin" x="33" y="44" />
+            <int name="z" value="0" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+    <imgdir name="condition2">
+        <imgdir name="36300">
+            <imgdir name="0">
+                <string name="key" value="06" />
+                <string name="value" value="h0" />
+            </imgdir>
+        </imgdir>
+        <int name="hide" value="1" />
+        <uol name="stand" value="../stand" />
+        <uol name="eye" value="../eye" />
+        <uol name="say" value="../say" />
+    </imgdir>
+    <imgdir name="condition3">
+        <imgdir name="36300">
+            <imgdir name="0">
+                <string name="key" value="06" />
+                <string name="value" value="h1" />
+            </imgdir>
+        </imgdir>
+        <uol name="stand" value="../stand" />
+        <uol name="eye" value="../eye" />
+        <uol name="say" value="../say" />
+    </imgdir>
+    <imgdir name="condition4">
+        <imgdir name="36300">
+            <imgdir name="0">
+                <string name="key" value="06" />
+                <string name="value" value="h2" />
+            </imgdir>
+        </imgdir>
+        <uol name="stand" value="../special2" />
+        <uol name="eye" value="../special2" />
+        <uol name="say" value="../special2" />
+    </imgdir>
+    <imgdir name="condition5">
+        <imgdir name="36300">
+            <imgdir name="0">
+                <string name="key" value="06" />
+                <string name="value" value="h3" />
+            </imgdir>
+        </imgdir>
+        <uol name="stand" value="../special3" />
+        <uol name="eye" value="../special3" />
+        <uol name="say" value="../special3" />
+    </imgdir>
+</imgdir>

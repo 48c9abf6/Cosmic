@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9120271.img">
+    <imgdir name="info">
+        <int name="hideName" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="55" height="57">
+            <vector name="origin" x="26" y="57" />
+            <vector name="lt" x="-26" y="-48" />
+            <vector name="rb" x="28" y="0" />
+            <vector name="head" x="0" y="-48" />
+        </canvas>
+        <canvas name="1" width="55" height="57">
+            <vector name="origin" x="26" y="59" />
+            <vector name="lt" x="-26" y="-48" />
+            <vector name="rb" x="28" y="0" />
+            <vector name="head" x="0" y="-48" />
+        </canvas>
+        <canvas name="2" width="55" height="59">
+            <vector name="origin" x="26" y="60" />
+            <vector name="lt" x="-26" y="-48" />
+            <vector name="rb" x="28" y="0" />
+            <vector name="head" x="0" y="-48" />
+        </canvas>
+        <canvas name="3" width="55" height="59">
+            <vector name="origin" x="26" y="59" />
+            <vector name="lt" x="-26" y="-48" />
+            <vector name="rb" x="28" y="0" />
+            <vector name="head" x="0" y="-48" />
+        </canvas>
+    </imgdir>
+</imgdir>

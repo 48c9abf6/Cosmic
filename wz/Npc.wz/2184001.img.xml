@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="2184001.img">
+    <imgdir name="info">
+        <int name="hide" value="1" />
+        <canvas name="default" width="69" height="83">
+            <vector name="origin" x="33" y="83" />
+            <int name="delay" value="600" />
+        </canvas>
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="hillah_out" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="69" height="84">
+            <vector name="origin" x="32" y="84" />
+            <int name="delay" value="3000" />
+            <int name="z" value="0" />
+            <int name="a0" value="0" />
+            <int name="a1" value="0" />
+        </canvas>
+        <vector name="origin" x="32" y="84" />
+        <int name="delay" value="3000" />
+        <int name="z" value="0" />
+    </imgdir>
+</imgdir>

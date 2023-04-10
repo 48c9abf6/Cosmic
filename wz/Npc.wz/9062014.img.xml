@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9062014.img">
+    <imgdir name="info" />
+    <imgdir name="stand">
+        <canvas name="0" width="119" height="120">
+            <vector name="origin" x="59" y="120" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="119" height="121">
+            <vector name="origin" x="59" y="121" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="119" height="122">
+            <vector name="origin" x="59" y="122" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="3" width="119" height="123">
+            <vector name="origin" x="59" y="123" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="4" width="119" height="121">
+            <vector name="origin" x="59" y="121" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+    </imgdir>
+    <imgdir name="say0">
+        <canvas name="0" width="119" height="120">
+            <vector name="origin" x="59" y="120" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="119" height="121">
+            <vector name="origin" x="59" y="121" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="119" height="122">
+            <vector name="origin" x="59" y="122" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="3" width="119" height="123">
+            <vector name="origin" x="59" y="123" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="4" width="119" height="121">
+            <vector name="origin" x="59" y="121" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <uol name="5" value="0" />
+        <uol name="6" value="1" />
+        <uol name="7" value="2" />
+        <uol name="8" value="3" />
+        <uol name="9" value="4" />
+        <uol name="10" value="../stand/0" />
+        <uol name="11" value="../stand/1" />
+        <uol name="12" value="../stand/2" />
+        <uol name="13" value="../stand/3" />
+        <uol name="14" value="../stand/4" />
+        <uol name="15" value="../eye/0" />
+        <uol name="16" value="../eye/1" />
+        <uol name="17" value="../eye/2" />
+        <uol name="18" value="../eye/3" />
+        <uol name="19" value="../eye/4" />
+        <imgdir name="speak">
+            <string name="0" value="s0" />
+            <string name="1" value="s1" />
+        </imgdir>
+        <int name="hideQuestBalloon" value="1" />
+    </imgdir>
+    <imgdir name="say1">
+        <canvas name="0" width="119" height="120">
+            <vector name="origin" x="59" y="120" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="119" height="121">
+            <vector name="origin" x="59" y="121" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="119" height="122">
+            <vector name="origin" x="59" y="122" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="3" width="119" height="123">
+            <vector name="origin" x="59" y="123" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="4" width="119" height="121">
+            <vector name="origin" x="59" y="121" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <uol name="5" value="0" />
+        <uol name="6" value="1" />
+        <uol name="7" value="2" />
+        <uol name="8" value="3" />
+        <uol name="9" value="4" />
+        <uol name="10" value="../stand/0" />
+        <uol name="11" value="../stand/1" />
+        <uol name="12" value="../stand/2" />
+        <uol name="13" value="../stand/3" />
+        <uol name="14" value="../stand/4" />
+        <uol name="15" value="../eye/0" />
+        <uol name="16" value="../eye/1" />
+        <uol name="17" value="../eye/2" />
+        <uol name="18" value="../eye/3" />
+        <uol name="19" value="../eye/4" />
+        <imgdir name="speak">
+            <string name="0" value="s0" />
+            <string name="1" value="s1" />
+        </imgdir>
+        <int name="hideQuestBalloon" value="1" />
+    </imgdir>
+    <imgdir name="eye">
+        <canvas name="0" width="119" height="120">
+            <vector name="origin" x="59" y="120" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="119" height="121">
+            <vector name="origin" x="59" y="121" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="119" height="122">
+            <vector name="origin" x="59" y="122" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="3" width="119" height="123">
+            <vector name="origin" x="59" y="123" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="4" width="119" height="121">
+            <vector name="origin" x="59" y="121" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+    </imgdir>
+</imgdir>

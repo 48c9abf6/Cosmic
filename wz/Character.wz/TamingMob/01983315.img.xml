@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="01983315.img">
+    <imgdir name="info">
+        <canvas name="icon" width="34" height="35">
+            <vector name="origin" x="1" y="33" />
+        </canvas>
+        <canvas name="iconRaw" width="34" height="35">
+            <vector name="origin" x="1" y="33" />
+        </canvas>
+    </imgdir>
+    <imgdir name="sit">
+        <imgdir name="0">
+            <canvas name="0" width="66" height="133">
+                <vector name="origin" x="31" y="111" />
+                <string name="z" value="tamingMobFront" />
+                <imgdir name="map">
+                    <vector name="navel" x="0" y="0" />
+                </imgdir>
+            </canvas>
+        </imgdir>
+    </imgdir>
+</imgdir>

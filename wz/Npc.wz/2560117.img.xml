@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="2560117.img">
+    <imgdir name="info">
+        <int name="hide" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <imgdir name="speak">
+            <string name="0" value="s0" />
+            <string name="1" value="s1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="eye">
+        <canvas name="0" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="hand">
+        <canvas name="0" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="57" height="90">
+            <vector name="origin" x="22" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="57" height="90">
+            <vector name="origin" x="22" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="57" height="90">
+            <vector name="origin" x="22" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="8" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="9" width="57" height="89">
+            <vector name="origin" x="23" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition2">
+        <imgdir name="32999">
+            <imgdir name="0">
+                <string name="key" value="17" />
+                <string name="value" value="h0" />
+            </imgdir>
+        </imgdir>
+        <uol name="stand" value="../stand" />
+        <uol name="say" value="../say" />
+        <uol name="hand" value="../hand" />
+        <uol name="eye" value="../eye" />
+        <int name="hide" value="1" />
+    </imgdir>
+    <imgdir name="condition3">
+        <imgdir name="32999">
+            <imgdir name="0">
+                <string name="key" value="17" />
+                <string name="value" value="h1" />
+            </imgdir>
+        </imgdir>
+        <uol name="stand" value="../stand" />
+        <uol name="say" value="../say" />
+        <uol name="hand" value="../hand" />
+        <uol name="eye" value="../eye" />
+    </imgdir>
+</imgdir>

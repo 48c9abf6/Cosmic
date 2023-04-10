@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9100017.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="npc_9100017" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="73" height="64">
+            <vector name="origin" x="42" y="64" />
+        </canvas>
+        <canvas name="1" width="72" height="66">
+            <vector name="origin" x="42" y="66" />
+        </canvas>
+        <canvas name="2" width="72" height="64">
+            <vector name="origin" x="42" y="64" />
+        </canvas>
+        <canvas name="3" width="73" height="66">
+            <vector name="origin" x="42" y="66" />
+        </canvas>
+    </imgdir>
+</imgdir>

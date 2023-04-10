@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9131013.img">
+    <imgdir name="info">
+        <imgdir name="illustration2">
+            <canvas name="base" width="270" height="323">
+                <vector name="origin" x="19" y="213" />
+            </canvas>
+            <imgdir name="face">
+                <canvas name="0" width="270" height="323">
+                    <vector name="origin" x="19" y="213" />
+                </canvas>
+                <canvas name="1" width="270" height="323">
+                    <vector name="origin" x="19" y="213" />
+                    <int name="z" value="0" />
+                </canvas>
+                <canvas name="2" width="270" height="323">
+                    <vector name="origin" x="19" y="213" />
+                    <int name="z" value="0" />
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <int name="hideName" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="1" height="1" />
+    </imgdir>
+</imgdir>

@@ -382,7 +382,11 @@ public class MapFactory {
         if (mapid < 100000000) {
             builder.append("maple");
         } else if (mapid >= 100000000 && mapid < MapId.ORBIS) {
-            builder.append("victoria");
+            if (mapid == 100000900) {
+                builder.append("etc");
+            } else {
+                builder.append("victoria");                
+            }
         } else if (mapid >= MapId.ORBIS && mapid < MapId.ELLIN_FOREST) {
             builder.append("ossyria");
         } else if (mapid >= MapId.ELLIN_FOREST && mapid < 400000000) {

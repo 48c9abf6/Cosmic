@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9400958.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="halloweenHiddenDoor" />
+            </imgdir>
+        </imgdir>
+        <int name="hideName" value="1" />
+        <int name="dcLeft" value="-31" />
+        <int name="dcTop" value="-13" />
+        <int name="dcRight" value="36" />
+        <int name="dcBottom" value="15" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="89" height="28">
+            <vector name="origin" x="44" y="14" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+</imgdir>

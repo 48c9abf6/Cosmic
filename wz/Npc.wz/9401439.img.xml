@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9401439.img">
+    <imgdir name="info">
+        <int name="hide" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="49" height="73">
+            <vector name="origin" x="23" y="73" />
+            <int name="z" value="0" />
+            <int name="delay" value="1500" />
+        </canvas>
+        <canvas name="1" width="49" height="73">
+            <vector name="origin" x="23" y="73" />
+            <int name="z" value="0" />
+            <int name="delay" value="180" />
+        </canvas>
+        <canvas name="2" width="49" height="73">
+            <vector name="origin" x="23" y="73" />
+            <int name="z" value="0" />
+            <int name="delay" value="180" />
+        </canvas>
+        <uol name="3" value="1" />
+    </imgdir>
+    <imgdir name="smile">
+        <canvas name="0" width="49" height="73">
+            <vector name="origin" x="23" y="73" />
+            <int name="z" value="0" />
+            <int name="delay" value="900" />
+        </canvas>
+        <canvas name="1" width="49" height="73">
+            <vector name="origin" x="23" y="73" />
+            <int name="z" value="0" />
+            <int name="delay" value="900" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <int name="hide" value="0" />
+        <imgdir name="stand">
+            <canvas name="0" width="49" height="73">
+                <vector name="origin" x="23" y="73" />
+                <int name="z" value="0" />
+                <int name="delay" value="1500" />
+            </canvas>
+            <canvas name="1" width="49" height="73">
+                <vector name="origin" x="23" y="73" />
+                <int name="z" value="0" />
+                <int name="delay" value="180" />
+            </canvas>
+            <canvas name="2" width="49" height="73">
+                <vector name="origin" x="23" y="73" />
+                <int name="z" value="0" />
+                <int name="delay" value="180" />
+            </canvas>
+            <uol name="3" value="1" />
+        </imgdir>
+        <imgdir name="smile">
+            <canvas name="0" width="49" height="73">
+                <vector name="origin" x="23" y="73" />
+                <int name="z" value="0" />
+                <int name="delay" value="900" />
+            </canvas>
+            <canvas name="1" width="49" height="73">
+                <vector name="origin" x="23" y="73" />
+                <int name="z" value="0" />
+                <int name="delay" value="900" />
+            </canvas>
+        </imgdir>
+        <imgdir name="66299">
+            <imgdir name="0">
+                <string name="key" value="shuna" />
+                <string name="value" value="1" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

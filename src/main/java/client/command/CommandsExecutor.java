@@ -176,29 +176,16 @@ public class CommandsExecutor {
         addCommand(new String[]{"help", "commands"}, HelpCommand.class);
         addCommand("droplimit", DropLimitCommand.class);
         addCommand("time", TimeCommand.class);
-        addCommand("credits", StaffCommand.class);
-        addCommand("buyback", BuyBackCommand.class);
-        addCommand("uptime", UptimeCommand.class);
         addCommand("gacha", GachaCommand.class);
         addCommand("dispose", DisposeCommand.class);
-        addCommand("changel", ChangeLanguageCommand.class);
-        addCommand("equiplv", EquipLvCommand.class);
         addCommand("showrates", ShowRatesCommand.class);
         addCommand("rates", RatesCommand.class);
-        addCommand("online", OnlineCommand.class);
-        addCommand("gm", GmCommand.class);
-        addCommand("reportbug", ReportBugCommand.class);
-        addCommand("points", ReadPointsCommand.class);
         addCommand("joinevent", JoinEventCommand.class);
         addCommand("leaveevent", LeaveEventCommand.class);
-        addCommand("ranks", RanksCommand.class);
         addCommand("str", StatStrCommand.class);
         addCommand("dex", StatDexCommand.class);
         addCommand("int", StatIntCommand.class);
         addCommand("luk", StatLukCommand.class);
-        addCommand("enableauth", EnableAuthCommand.class);
-        addCommand("toggleexp", ToggleExpCommand.class);
-        addCommand("mylawn", MapOwnerClaimCommand.class);
         addCommand("bosshp", BossHpCommand.class);
         addCommand("mobhp", MobHpCommand.class);
 
@@ -213,6 +200,20 @@ public class CommandsExecutor {
         addCommand("whodrops", 1, WhoDropsCommand.class);
         addCommand("buffme", 1, BuffMeCommand.class);
         addCommand("goto", 1, GotoCommand.class);
+        
+        addCommand("credits", StaffCommand.class);
+        addCommand("buyback", BuyBackCommand.class);
+        addCommand("uptime", UptimeCommand.class);
+        addCommand("changel", ChangeLanguageCommand.class);
+        addCommand("equiplv", EquipLvCommand.class);  
+        addCommand("online", OnlineCommand.class);
+        addCommand("gm", GmCommand.class);
+        addCommand("reportbug", ReportBugCommand.class);
+        addCommand("points", ReadPointsCommand.class);
+        addCommand("ranks", RanksCommand.class);
+        addCommand("enableauth", EnableAuthCommand.class);
+        addCommand("toggleexp", ToggleExpCommand.class);
+        addCommand("mylawn", MapOwnerClaimCommand.class);        
 
         commandsNameDesc.add(levelCommandsCursor);
     }

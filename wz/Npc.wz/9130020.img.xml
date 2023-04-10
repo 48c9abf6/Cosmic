@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9130020.img">
+    <imgdir name="info">
+        <imgdir name="illustration2">
+            <imgdir name="face">
+                <canvas name="0" width="381" height="588">
+                    <vector name="origin" x="-198" y="597" />
+                    <int name="z" value="0" />
+                </canvas>
+                <canvas name="1" width="381" height="588">
+                    <vector name="origin" x="-198" y="597" />
+                    <int name="z" value="0" />
+                </canvas>
+                <canvas name="2" width="381" height="588">
+                    <vector name="origin" x="-198" y="597" />
+                    <int name="z" value="0" />
+                </canvas>
+            </imgdir>
+            <canvas name="base" width="381" height="588">
+                <vector name="origin" x="-198" y="597" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+        <imgdir name="illustration">
+            <imgdir name="main">
+                <canvas name="0" width="381" height="588">
+                    <vector name="origin" x="-198" y="597" />
+                    <int name="z" value="0" />
+                </canvas>
+            </imgdir>
+            <imgdir name="face">
+                <uol name="0" value="../main/0" />
+                <uol name="1" value="../main/0" />
+                <uol name="2" value="../main/0" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="75" height="95">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+</imgdir>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9400597.img">
+    <imgdir name="info">
+        <imgdir name="illustration2">
+            <imgdir name="face">
+                <canvas name="bilharm.png" width="1024" height="512">
+                    <vector name="origin" x="512" y="256" />
+                    <int name="z" value="0" />
+                </canvas>
+                <string name="spine" value="bilharm" />
+                <string name="bilharm.atlas" value=" bilharm.png size: 1024,512 format: RGBA8888 filter: Linear,Linear repeat: none body   rotate: false   xy: 486, 327   size: 510, 185   orig: 510, 185   offset: 0, 0   index: -1 eye_0_l   rotate: true   xy: 953, 278   size: 49, 71   orig: 49, 71   offset: 0, 0   index: -1 eye_0_r   rotate: false   xy: 867, 172   size: 87, 73   orig: 87, 73   offset: 0, 0   index: -1 eye_1_l   rotate: false   xy: 954, 203   size: 51, 75   orig: 51, 75   offset: 0, 0   index: -1 eye_1_r   rotate: false   xy: 769, 87   size: 87, 84   orig: 87, 84   offset: 0, 0   index: -1 eye_2_l   rotate: false   xy: 856, 97   size: 51, 74   orig: 51, 74   offset: 0, 0   index: -1 eye_2_r   rotate: true   xy: 769, 0   size: 87, 83   orig: 87, 83   offset: 0, 0   index: -1 eye_3_l   rotate: true   xy: 151, 0   size: 53, 67   orig: 53, 67   offset: 0, 0   index: -1 eye_3_r   rotate: true   xy: 852, 0   size: 87, 75   orig: 87, 75   offset: 0, 0   index: -1 eye_help_l   rotate: false   xy: 151, 53   size: 102, 91   orig: 102, 91   offset: 0, 0   index: -1 eye_help_r   rotate: false   xy: 867, 245   size: 86, 82   orig: 86, 82   offset: 0, 0   index: -1 fur   rotate: false   xy: 0, 144   size: 486, 368   orig: 486, 368   offset: 0, 0   index: -1 hand_help   rotate: false   xy: 253, 30   size: 95, 56   orig: 95, 56   offset: 0, 0   index: -1 head   rotate: false   xy: 486, 48   size: 283, 279   orig: 283, 279   offset: 0, 0   index: -1 mouth   rotate: true   xy: 473, 102   size: 42, 13   orig: 42, 13   offset: 0, 0   index: -1 mouth_help_c   rotate: false   xy: 363, 87   size: 110, 57   orig: 110, 57   offset: 0, 0   index: -1 mouth_help_o   rotate: false   xy: 253, 86   size: 110, 58   orig: 110, 58   offset: 0, 0   index: -1 nose   rotate: false   xy: 218, 8   size: 31, 45   orig: 31, 45   offset: 0, 0   index: -1 sweat_1   rotate: false   xy: 856, 87   size: 6, 10   orig: 6, 10   offset: 0, 0   index: -1 sweat_2   rotate: false   xy: 249, 47   size: 4, 6   orig: 4, 6   offset: 0, 0   index: -1 wrinkle_e   rotate: false   xy: 996, 495   size: 17, 17   orig: 17, 17   offset: 0, 0   index: -1 wrinkle_help_e   rotate: true   xy: 0, 11   size: 14, 35   orig: 14, 35   offset: 0, 0   index: -1 wrinkle_help_m   rotate: false   xy: 769, 171   size: 98, 156   orig: 98, 156   offset: 0, 0   index: -1 wrinkle_m   rotate: false   xy: 0, 25   size: 151, 119   orig: 151, 119   offset: 0, 0   index: -1 " />
+                <string name="bilharm.json" value="{ &quot;skeleton&quot;: { &quot;hash&quot;: &quot;wpIlKQl2a4SEL/pLfEcBSOmdDgg&quot;, &quot;spine&quot;: &quot;2.1.27&quot;, &quot;width&quot;: 382.49, &quot;height&quot;: 359.99, &quot;images&quot;: &quot;./images/bilharm/&quot; }, &quot;bones&quot;: [  { &quot;name&quot;: &quot;root&quot; },  { &quot;name&quot;: &quot;body&quot;, &quot;parent&quot;: &quot;root&quot;, &quot;length&quot;: 371.04, &quot;x&quot;: 7, &quot;y&quot;: -1.99, &quot;scaleX&quot;: 0.75, &quot;scaleY&quot;: 0.75, &quot;rotation&quot;: 89.09 },  { &quot;name&quot;: &quot;head&quot;, &quot;parent&quot;: &quot;body&quot;, &quot;length&quot;: 218.27, &quot;x&quot;: 207.18, &quot;y&quot;: -9.7, &quot;rotation&quot;: -1.8 },  { &quot;name&quot;: &quot;eye_l&quot;, &quot;parent&quot;: &quot;head&quot;, &quot;x&quot;: 74.74, &quot;y&quot;: 70.61 },  { &quot;name&quot;: &quot;eye_r&quot;, &quot;parent&quot;: &quot;head&quot;, &quot;x&quot;: 83.94, &quot;y&quot;: -18.04 },  { &quot;name&quot;: &quot;mouth&quot;, &quot;parent&quot;: &quot;head&quot;, &quot;x&quot;: 21.6, &quot;y&quot;: 30.05 },  { &quot;name&quot;: &quot;wrinkle&quot;, &quot;parent&quot;: &quot;head&quot;, &quot;x&quot;: 109.09, &quot;y&quot;: 37.63 } ], &quot;slots&quot;: [  { &quot;name&quot;: &quot;body&quot;, &quot;bone&quot;: &quot;body&quot;, &quot;attachment&quot;: &quot;body&quot; },  { &quot;name&quot;: &quot;fur&quot;, &quot;bone&quot;: &quot;body&quot;, &quot;attachment&quot;: &quot;fur&quot; },  { &quot;name&quot;: &quot;head&quot;, &quot;bone&quot;: &quot;head&quot;, &quot;attachment&quot;: &quot;head&quot; },  { &quot;name&quot;: &quot;mouth&quot;, &quot;bone&quot;: &quot;mouth&quot;, &quot;attachment&quot;: &quot;mouth&quot; },  { &quot;name&quot;: &quot;eye_0_l&quot;, &quot;bone&quot;: &quot;eye_l&quot;, &quot;attachment&quot;: &quot;eye_0_l&quot; },  { &quot;name&quot;: &quot;eye_0_r&quot;, &quot;bone&quot;: &quot;eye_r&quot;, &quot;attachment&quot;: &quot;eye_0_r&quot; },  { &quot;name&quot;: &quot;wrinkle_m&quot;, &quot;bone&quot;: &quot;head&quot;, &quot;attachment&quot;: &quot;wrinkle_m&quot; },  { &quot;name&quot;: &quot;sweat_2&quot;, &quot;bone&quot;: &quot;head&quot; },  { &quot;name&quot;: &quot;sweat_1&quot;, &quot;bone&quot;: &quot;head&quot; },  { &quot;name&quot;: &quot;nose&quot;, &quot;bone&quot;: &quot;head&quot;, &quot;attachment&quot;: &quot;nose&quot; },  { &quot;name&quot;: &quot;hand_help&quot;, &quot;bone&quot;: &quot;body&quot; },  { &quot;name&quot;: &quot;wrinkle01&quot;, &quot;bone&quot;: &quot;wrinkle&quot;, &quot;attachment&quot;: &quot;wrinkle_e&quot; } ], &quot;skins&quot;: {  &quot;default&quot;: {   &quot;body&quot;: {    &quot;body&quot;: { &quot;x&quot;: 95.66, &quot;y&quot;: -9.47, &quot;rotation&quot;: -89.09, &quot;width&quot;: 510, &quot;height&quot;: 185 }   },   &quot;eye_0_l&quot;: {    &quot;eye_0_l&quot;: { &quot;x&quot;: 18.31, &quot;y&quot;: 4.37, &quot;rotation&quot;: -87.29, &quot;width&quot;: 49, &quot;height&quot;: 71 },    &quot;eye_1_l&quot;: { &quot;x&quot;: 14.36, &quot;y&quot;: 3.18, &quot;rotation&quot;: -87.29, &quot;width&quot;: 51, &quot;height&quot;: 75 },    &quot;eye_2_l&quot;: { &quot;x&quot;: 13.86, &quot;y&quot;: 3.16, &quot;rotation&quot;: -87.29, &quot;width&quot;: 51, &quot;height&quot;: 74 },    &quot;eye_3_l&quot;: { &quot;x&quot;: 11.41, &quot;y&quot;: 2.04, &quot;rotation&quot;: -87.29, &quot;width&quot;: 53, &quot;height&quot;: 67 },    &quot;eye_help_l&quot;: { &quot;x&quot;: 23.56, &quot;y&quot;: -21.9, &quot;rotation&quot;: -87.29, &quot;width&quot;: 102, &quot;height&quot;: 91 }   },   &quot;eye_0_r&quot;: {    &quot;eye_0_r&quot;: { &quot;x&quot;: 21.31, &quot;y&quot;: 4.51, &quot;rotation&quot;: -87.29, &quot;width&quot;: 87, &quot;height&quot;: 73 },    &quot;eye_1_r&quot;: { &quot;x&quot;: 13.81, &quot;y&quot;: 4.15, &quot;rotation&quot;: -87.29, &quot;width&quot;: 87, &quot;height&quot;: 84 },    &quot;eye_2_r&quot;: { &quot;x&quot;: 13.31, &quot;y&quot;: 4.13, &quot;rotation&quot;: -87.29, &quot;width&quot;: 87, &quot;height&quot;: 83 },    &quot;eye_3_r&quot;: { &quot;x&quot;: 10.32, &quot;y&quot;: 3.99, &quot;rotation&quot;: -87.29, &quot;width&quot;: 87, &quot;height&quot;: 75 },    &quot;eye_help_r&quot;: { &quot;x&quot;: 21.78, &quot;y&quot;: 5.03, &quot;rotation&quot;: -87.29, &quot;width&quot;: 86, &quot;height&quot;: 82 }   },   &quot;fur&quot;: {    &quot;fur&quot;: { &quot;x&quot;: 299.24, &quot;y&quot;: -13.23, &quot;rotation&quot;: -89.09, &quot;width&quot;: 486, &quot;height&quot;: 368 }   },   &quot;hand_help&quot;: {    &quot;hand_help&quot;: { &quot;x&quot;: 32.4, &quot;y&quot;: -151, &quot;rotation&quot;: -89.09, &quot;width&quot;: 95, &quot;height&quot;: 56 }   },   &quot;head&quot;: {    &quot;head&quot;: { &quot;x&quot;: 95.6, &quot;y&quot;: 0.02, &quot;rotation&quot;: -87.29, &quot;width&quot;: 283, &quot;height&quot;: 279 }   },   &quot;mouth&quot;: {    &quot;mouth&quot;: { &quot;x&quot;: 2.87, &quot;y&quot;: -7.87, &quot;rotation&quot;: -87.29, &quot;width&quot;: 42, &quot;height&quot;: 13 },    &quot;mouth_help_c&quot;: { &quot;x&quot;: 25.13, &quot;y&quot;: -33.84, &quot;rotation&quot;: -87.29, &quot;width&quot;: 110, &quot;height&quot;: 57 },    &quot;mouth_help_o&quot;: { &quot;x&quot;: 24.63, &quot;y&quot;: -33.87, &quot;rotation&quot;: -87.29, &quot;width&quot;: 110, &quot;height&quot;: 58 }   },   &quot;nose&quot;: {    &quot;nose&quot;: { &quot;x&quot;: 59.89, &quot;y&quot;: 35.37, &quot;rotation&quot;: -87.29, &quot;width&quot;: 31, &quot;height&quot;: 45 }   },   &quot;sweat_1&quot;: {    &quot;sweat_1&quot;: { &quot;x&quot;: 136.64, &quot;y&quot;: -52.58, &quot;rotation&quot;: -87.29, &quot;width&quot;: 6, &quot;height&quot;: 10 }   },   &quot;sweat_2&quot;: {    &quot;sweat_2&quot;: { &quot;x&quot;: 120.94, &quot;y&quot;: -59.34, &quot;rotation&quot;: -87.29, &quot;width&quot;: 4, &quot;height&quot;: 6 }   },   &quot;wrinkle01&quot;: {    &quot;wrinkle_e&quot;: { &quot;x&quot;: -2.15, &quot;y&quot;: -2.03, &quot;rotation&quot;: -87.29, &quot;width&quot;: 17, &quot;height&quot;: 17 },    &quot;wrinkle_help_e&quot;: { &quot;x&quot;: 20.88, &quot;y&quot;: -2.44, &quot;rotation&quot;: -87.29, &quot;width&quot;: 14, &quot;height&quot;: 35 }   },   &quot;wrinkle_m&quot;: {    &quot;wrinkle_help_m&quot;: { &quot;x&quot;: 69.87, &quot;y&quot;: 25.33, &quot;rotation&quot;: -87.29, &quot;width&quot;: 98, &quot;height&quot;: 156 },    &quot;wrinkle_m&quot;: { &quot;x&quot;: 55.7, &quot;y&quot;: 18.15, &quot;rotation&quot;: -87.29, &quot;width&quot;: 151, &quot;height&quot;: 119 }   }  } }, &quot;animations&quot;: {  &quot;0&quot;: {   &quot;slots&quot;: {    &quot;eye_0_l&quot;: {     &quot;attachment&quot;: [      { &quot;time&quot;: 1.3333, &quot;name&quot;: &quot;eye_0_l&quot; },      { &quot;time&quot;: 1.4333, &quot;name&quot;: &quot;eye_2_l&quot; },      { &quot;time&quot;: 1.4666, &quot;name&quot;: &quot;eye_3_l&quot; },      { &quot;time&quot;: 1.5666, &quot;name&quot;: &quot;eye_2_l&quot; },      { &quot;time&quot;: 1.6, &quot;name&quot;: &quot;eye_0_l&quot; }     ]    },    &quot;eye_0_r&quot;: {     &quot;attachment&quot;: [      { &quot;time&quot;: 1.3333, &quot;name&quot;: &quot;eye_0_r&quot; },      { &quot;time&quot;: 1.4333, &quot;name&quot;: &quot;eye_2_r&quot; },      { &quot;time&quot;: 1.4666, &quot;name&quot;: &quot;eye_3_r&quot; },      { &quot;time&quot;: 1.5666, &quot;name&quot;: &quot;eye_2_r&quot; },      { &quot;time&quot;: 1.6, &quot;name&quot;: &quot;eye_0_r&quot; }     ]    },    &quot;wrinkle01&quot;: {     &quot;attachment&quot;: [      { &quot;time&quot;: 0, &quot;name&quot;: &quot;wrinkle_e&quot; }     ]    }   },   &quot;bones&quot;: {    &quot;root&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    },    &quot;body&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    },    &quot;head&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    },    &quot;eye_l&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 1.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.4, &quot;x&quot;: 0.9, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.4333, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.4666, &quot;x&quot;: 1.1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.5, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.5333, &quot;x&quot;: 1.1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.5666, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.6, &quot;x&quot;: 0.9, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.6666, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    },    &quot;eye_r&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 1.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.4, &quot;x&quot;: 0.9, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.4333, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.4666, &quot;x&quot;: 1.1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.5, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.5333, &quot;x&quot;: 1.1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.5666, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.6, &quot;x&quot;: 0.9, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.6641, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    },    &quot;mouth&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    },    &quot;wrinkle&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 1.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 },      { &quot;time&quot;: 1.5, &quot;x&quot;: -3.74, &quot;y&quot;: -0.17 },      { &quot;time&quot;: 1.6666, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 1.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.4333, &quot;x&quot;: 0.75, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 1.5666, &quot;x&quot;: 0.75, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.6666, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    }   }  },  &quot;1&quot;: {   &quot;slots&quot;: {    &quot;eye_0_l&quot;: {     &quot;attachment&quot;: [      { &quot;time&quot;: 0, &quot;name&quot;: &quot;eye_help_l&quot; },      { &quot;time&quot;: 1.3333, &quot;name&quot;: &quot;eye_help_l&quot; },      { &quot;time&quot;: 1.4333, &quot;name&quot;: &quot;eye_help_l&quot; },      { &quot;time&quot;: 1.4666, &quot;name&quot;: &quot;eye_3_l&quot; },      { &quot;time&quot;: 1.5666, &quot;name&quot;: &quot;eye_help_l&quot; },      { &quot;time&quot;: 1.6, &quot;name&quot;: &quot;eye_help_l&quot; }     ]    },    &quot;eye_0_r&quot;: {     &quot;attachment&quot;: [      { &quot;time&quot;: 0, &quot;name&quot;: &quot;eye_help_r&quot; },      { &quot;time&quot;: 1.3333, &quot;name&quot;: &quot;eye_help_r&quot; },      { &quot;time&quot;: 1.4333, &quot;name&quot;: &quot;eye_help_r&quot; },      { &quot;time&quot;: 1.4666, &quot;name&quot;: &quot;eye_3_r&quot; },      { &quot;time&quot;: 1.5666, &quot;name&quot;: &quot;eye_help_r&quot; },      { &quot;time&quot;: 1.6, &quot;name&quot;: &quot;eye_help_r&quot; }     ]    },    &quot;mouth&quot;: {     &quot;attachment&quot;: [      { &quot;time&quot;: 0, &quot;name&quot;: &quot;mouth_help_c&quot; },      { &quot;time&quot;: 0.6666, &quot;name&quot;: &quot;mouth_help_o&quot; },      { &quot;time&quot;: 0.8, &quot;name&quot;: &quot;mouth_help_c&quot; },      { &quot;time&quot;: 0.9666, &quot;name&quot;: &quot;mouth_help_o&quot; },      { &quot;time&quot;: 1.1, &quot;name&quot;: &quot;mouth_help_c&quot; }     ]    },    &quot;sweat_1&quot;: {     &quot;attachment&quot;: [      { &quot;time&quot;: 0, &quot;name&quot;: &quot;sweat_1&quot; }     ]    },    &quot;sweat_2&quot;: {     &quot;attachment&quot;: [      { &quot;time&quot;: 0, &quot;name&quot;: &quot;sweat_2&quot; }     ]    },    &quot;wrinkle01&quot;: {     &quot;attachment&quot;: [      { &quot;time&quot;: 0, &quot;name&quot;: &quot;wrinkle_help_e&quot; }     ]    },    &quot;wrinkle_m&quot;: {     &quot;attachment&quot;: [      { &quot;time&quot;: 0, &quot;name&quot;: &quot;wrinkle_help_m&quot; }     ]    }   },   &quot;bones&quot;: {    &quot;root&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    },    &quot;body&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    },    &quot;head&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    },    &quot;eye_l&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: -0.97, &quot;y&quot;: -0.04, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: -0.97, &quot;y&quot;: -0.04 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 1.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.4333, &quot;x&quot;: 0.9, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.4666, &quot;x&quot;: 1.1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.5, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.5333, &quot;x&quot;: 1.1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.5666, &quot;x&quot;: 0.9, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.6666, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    },    &quot;eye_r&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 1.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.4333, &quot;x&quot;: 0.9, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.4666, &quot;x&quot;: 1.1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.5, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.5333, &quot;x&quot;: 1.1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.5666, &quot;x&quot;: 0.9, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.6641, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    },    &quot;mouth&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 0.6333, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 0.6666, &quot;x&quot;: 0.6, &quot;y&quot;: 1 },      { &quot;time&quot;: 0.7666, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 0.9333, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 0.9666, &quot;x&quot;: 0.6, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.0666, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    },    &quot;wrinkle&quot;: {     &quot;rotate&quot;: [      { &quot;time&quot;: 0, &quot;angle&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;angle&quot;: 0 }     ],     &quot;translate&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 1.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 },      { &quot;time&quot;: 1.4333, &quot;x&quot;: 0.85, &quot;y&quot;: 0.04 },      { &quot;time&quot;: 1.5, &quot;x&quot;: -30.93, &quot;y&quot;: -1.46 },      { &quot;time&quot;: 1.5666, &quot;x&quot;: 0.85, &quot;y&quot;: 0.04 },      { &quot;time&quot;: 1.6666, &quot;x&quot;: 0, &quot;y&quot;: 0, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 0, &quot;y&quot;: 0 }     ],     &quot;scale&quot;: [      { &quot;time&quot;: 0, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 1.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.4333, &quot;x&quot;: 0.75, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 1.5666, &quot;x&quot;: 0.75, &quot;y&quot;: 1 },      { &quot;time&quot;: 1.6666, &quot;x&quot;: 1, &quot;y&quot;: 1, &quot;curve&quot;: &quot;stepped&quot; },      { &quot;time&quot;: 2.3333, &quot;x&quot;: 1, &quot;y&quot;: 1 }     ]    }   }  } } }" />
+            </imgdir>
+            <canvas name="base" width="89" height="51">
+                <vector name="origin" x="44" y="51" />
+                <int name="delay" value="3000" />
+            </canvas>
+        </imgdir>
+        <int name="forceMove" value="1" />
+        <canvas name="CaravanDialog" width="100" height="100">
+            <vector name="origin" x="50" y="50" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+            <int name="delay" value="1200" />
+        </canvas>
+    </imgdir>
+    <imgdir name="eye">
+        <canvas name="0" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="move">
+        <canvas name="0" width="96" height="108">
+            <vector name="origin" x="45" y="103" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="96" height="108">
+            <vector name="origin" x="46" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="96" height="108">
+            <vector name="origin" x="45" y="103" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="94" height="108">
+            <vector name="origin" x="44" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+    <imgdir name="attack1">
+        <canvas name="0" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="1" width="155" height="79">
+            <vector name="origin" x="101" y="78" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="2" width="157" height="79">
+            <vector name="origin" x="101" y="78" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="3" width="157" height="79">
+            <vector name="origin" x="101" y="78" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="4" width="237" height="98">
+            <vector name="origin" x="136" y="76" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="234" height="102">
+            <vector name="origin" x="117" y="75" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="236" height="103">
+            <vector name="origin" x="114" y="75" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="234" height="103">
+            <vector name="origin" x="110" y="75" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="8" width="234" height="85">
+            <vector name="origin" x="110" y="75" />
+            <int name="z" value="0" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+    <imgdir name="attack2">
+        <canvas name="0" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+            <int name="delay" value="120" />
+        </canvas>
+        <canvas name="1" width="153" height="79">
+            <vector name="origin" x="97" y="78" />
+            <int name="z" value="0" />
+            <int name="delay" value="120" />
+        </canvas>
+        <canvas name="2" width="152" height="79">
+            <vector name="origin" x="96" y="78" />
+            <int name="z" value="0" />
+            <int name="delay" value="120" />
+        </canvas>
+        <canvas name="3" width="315" height="78">
+            <vector name="origin" x="205" y="76" />
+            <int name="z" value="0" />
+            <int name="delay" value="120" />
+        </canvas>
+        <canvas name="4" width="411" height="77">
+            <vector name="origin" x="289" y="75" />
+            <int name="z" value="0" />
+            <int name="delay" value="120" />
+        </canvas>
+        <canvas name="5" width="515" height="77">
+            <vector name="origin" x="379" y="75" />
+            <int name="z" value="0" />
+            <int name="delay" value="120" />
+        </canvas>
+        <canvas name="6" width="511" height="77">
+            <vector name="origin" x="372" y="75" />
+            <int name="z" value="0" />
+            <int name="delay" value="120" />
+        </canvas>
+        <canvas name="7" width="614" height="77">
+            <vector name="origin" x="473" y="75" />
+            <int name="z" value="0" />
+            <int name="delay" value="120" />
+        </canvas>
+        <canvas name="8" width="611" height="115">
+            <vector name="origin" x="557" y="114" />
+            <int name="z" value="0" />
+            <int name="delay" value="120" />
+        </canvas>
+        <canvas name="9" width="701" height="115">
+            <vector name="origin" x="647" y="114" />
+            <int name="z" value="0" />
+            <int name="delay" value="120" />
+        </canvas>
+        <canvas name="10" width="694" height="115">
+            <vector name="origin" x="640" y="114" />
+            <int name="z" value="0" />
+            <int name="delay" value="120" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+    <imgdir name="attack3">
+        <canvas name="0" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="123" height="120">
+            <vector name="origin" x="57" y="114" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="130" height="125">
+            <vector name="origin" x="56" y="114" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="323" height="294">
+            <vector name="origin" x="223" y="193" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="365" height="188">
+            <vector name="origin" x="248" y="135" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="408" height="188">
+            <vector name="origin" x="286" y="138" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="415" height="187">
+            <vector name="origin" x="291" y="137" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="421" height="184">
+            <vector name="origin" x="297" y="134" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="8" width="345" height="108">
+            <vector name="origin" x="294" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="9" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="10" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+    <imgdir name="hit">
+        <canvas name="0" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="130" height="119">
+            <vector name="origin" x="52" y="118" />
+            <int name="z" value="0" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+    <imgdir name="die">
+        <canvas name="0" width="96" height="108">
+            <vector name="origin" x="45" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="130" height="119">
+            <vector name="origin" x="52" y="118" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="139" height="123">
+            <vector name="origin" x="59" y="122" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="146" height="120">
+            <vector name="origin" x="65" y="119" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="220" height="86">
+            <vector name="origin" x="129" y="73" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="221" height="89">
+            <vector name="origin" x="129" y="73" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="223" height="89">
+            <vector name="origin" x="129" y="73" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="223" height="85">
+            <vector name="origin" x="129" y="73" />
+            <int name="z" value="0" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+</imgdir>

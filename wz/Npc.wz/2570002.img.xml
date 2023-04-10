@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="2570002.img">
+    <imgdir name="info">
+        <int name="hide" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="107" height="108">
+            <vector name="origin" x="66" y="88" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition2">
+        <imgdir name="37800">
+            <imgdir name="0">
+                <string name="key" value="02" />
+                <string name="value" value="h0" />
+            </imgdir>
+        </imgdir>
+        <int name="hide" value="1" />
+        <imgdir name="stand">
+            <canvas name="0" width="107" height="108">
+                <vector name="origin" x="66" y="88" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition3">
+        <imgdir name="37800">
+            <imgdir name="0">
+                <string name="key" value="02" />
+                <string name="value" value="h1" />
+            </imgdir>
+        </imgdir>
+        <imgdir name="stand">
+            <canvas name="0" width="107" height="108">
+                <vector name="origin" x="66" y="88" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition4">
+        <imgdir name="37800">
+            <imgdir name="0">
+                <string name="key" value="02" />
+                <string name="value" value="die" />
+            </imgdir>
+        </imgdir>
+        <imgdir name="stand">
+            <canvas name="0" width="72" height="61">
+                <vector name="origin" x="32" y="61" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition5">
+        <imgdir name="37800">
+            <imgdir name="0">
+                <string name="key" value="02" />
+                <string name="value" value="down" />
+            </imgdir>
+        </imgdir>
+        <imgdir name="stand">
+            <canvas name="0" width="127" height="87">
+                <vector name="origin" x="79" y="78" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition6">
+        <imgdir name="37800">
+            <imgdir name="0">
+                <string name="key" value="02" />
+                <string name="value" value="sit" />
+            </imgdir>
+        </imgdir>
+        <imgdir name="stand">
+            <canvas name="0" width="56" height="72">
+                <vector name="origin" x="23" y="71" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition7">
+        <imgdir name="37800">
+            <imgdir name="0">
+                <string name="key" value="02" />
+                <string name="value" value="attack" />
+            </imgdir>
+        </imgdir>
+        <imgdir name="stand">
+            <canvas name="0" width="106" height="88">
+                <vector name="origin" x="72" y="88" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+</imgdir>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9063150.img">
+    <imgdir name="info" />
+    <imgdir name="stand">
+        <canvas name="0" width="48" height="82">
+            <vector name="origin" x="21" y="82" />
+            <int name="delay" value="3000" />
+        </canvas>
+    </imgdir>
+    <imgdir name="eye">
+        <canvas name="0" width="48" height="82">
+            <vector name="origin" x="21" y="82" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="1" width="48" height="82">
+            <vector name="origin" x="21" y="82" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="2" width="48" height="82">
+            <vector name="origin" x="21" y="82" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="3" width="48" height="82">
+            <vector name="origin" x="21" y="82" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="4" width="48" height="82">
+            <vector name="origin" x="21" y="82" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="5" width="48" height="82">
+            <vector name="origin" x="21" y="82" />
+            <int name="delay" value="210" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition2">
+        <imgdir name="35650">
+            <imgdir name="0">
+                <string name="key" value="50" />
+                <string name="value" value="h0" />
+            </imgdir>
+        </imgdir>
+        <uol name="stand" value="../stand" />
+        <uol name="eye" value="../eye" />
+        <int name="hide" value="1" />
+    </imgdir>
+</imgdir>

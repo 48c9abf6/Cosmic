@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9031005.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="alchemy" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="61" height="83">
+            <vector name="origin" x="33" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="61" height="83">
+            <vector name="origin" x="33" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="78" height="86">
+            <vector name="origin" x="51" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="79" height="92">
+            <vector name="origin" x="52" y="88" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="80" height="98">
+            <vector name="origin" x="53" y="94" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="80" height="107">
+            <vector name="origin" x="53" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="80" height="107">
+            <vector name="origin" x="53" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="80" height="107">
+            <vector name="origin" x="53" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="8" width="80" height="108">
+            <vector name="origin" x="53" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="9" width="80" height="102">
+            <vector name="origin" x="53" y="97" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="10" width="80" height="111">
+            <vector name="origin" x="53" y="106" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="11" width="79" height="117">
+            <vector name="origin" x="52" y="113" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="12" width="78" height="124">
+            <vector name="origin" x="51" y="121" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="13" width="77" height="121">
+            <vector name="origin" x="49" y="121" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="61" height="83">
+            <vector name="origin" x="33" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="61" height="83">
+            <vector name="origin" x="33" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="61" height="83">
+            <vector name="origin" x="34" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="61" height="83">
+            <vector name="origin" x="34" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="61" height="83">
+            <vector name="origin" x="34" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="61" height="83">
+            <vector name="origin" x="34" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="61" height="83">
+            <vector name="origin" x="34" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="61" height="83">
+            <vector name="origin" x="34" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="8" width="61" height="83">
+            <vector name="origin" x="34" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="9" width="61" height="83">
+            <vector name="origin" x="34" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="10" width="61" height="83">
+            <vector name="origin" x="34" y="83" />
+            <int name="z" value="0" />
+        </canvas>
+        <uol name="11" value="0" />
+        <uol name="12" value="1" />
+        <uol name="13" value="2" />
+        <uol name="14" value="0" />
+        <uol name="15" value="1" />
+        <uol name="16" value="2" />
+        <uol name="17" value="0" />
+        <uol name="18" value="1" />
+        <uol name="19" value="2" />
+        <imgdir name="speak">
+            <string name="0" value="n0" />
+            <string name="1" value="n1" />
+        </imgdir>
+    </imgdir>
+</imgdir>

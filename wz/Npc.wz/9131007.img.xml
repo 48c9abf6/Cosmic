@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9131007.img">
+    <imgdir name="info">
+        <imgdir name="illustration2">
+            <canvas name="base" width="297" height="262">
+                <vector name="origin" x="52" y="155" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="kenjiTutoShingen" />
+            </imgdir>
+        </imgdir>
+        <string name="link" value="9130000" />
+        <imgdir name="illustration">
+            <imgdir name="main">
+                <canvas name="0" width="469" height="531">
+                    <vector name="origin" x="-165" y="575" />
+                    <int name="z" value="0" />
+                </canvas>
+            </imgdir>
+            <imgdir name="face">
+                <uol name="0" value="../main/0" />
+                <uol name="1" value="../main/0" />
+                <uol name="2" value="../main/0" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

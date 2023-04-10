@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="1541205.img">
+    <imgdir name="info">
+        <int name="hide" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="53" height="82">
+            <vector name="origin" x="24" y="82" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="53" height="82">
+            <vector name="origin" x="24" y="82" />
+            <int name="z" value="0" />
+            <int name="delay" value="200" />
+        </canvas>
+        <canvas name="1" width="53" height="82">
+            <vector name="origin" x="24" y="82" />
+            <int name="z" value="0" />
+            <int name="delay" value="200" />
+        </canvas>
+    </imgdir>
+    <imgdir name="eye">
+        <canvas name="0" width="53" height="82">
+            <vector name="origin" x="24" y="82" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="53" height="82">
+            <vector name="origin" x="24" y="82" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="53" height="82">
+            <vector name="origin" x="24" y="82" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <imgdir name="36600">
+            <imgdir name="0">
+                <string name="key" value="05" />
+                <string name="value" value="h0" />
+            </imgdir>
+        </imgdir>
+        <int name="hide" value="1" />
+        <uol name="stand" value="../stand" />
+        <uol name="eye" value="../eye" />
+        <uol name="say" value="../say" />
+    </imgdir>
+    <imgdir name="condition2">
+        <imgdir name="36600">
+            <imgdir name="0">
+                <string name="key" value="05" />
+                <string name="value" value="h1" />
+            </imgdir>
+        </imgdir>
+        <uol name="stand" value="../stand" />
+        <uol name="eye" value="../eye" />
+        <uol name="say" value="../say" />
+    </imgdir>
+    <imgdir name="condition3">
+        <imgdir name="36600">
+            <imgdir name="0">
+                <string name="key" value="05" />
+                <string name="value" value="h3" />
+            </imgdir>
+        </imgdir>
+        <imgdir name="stand">
+            <canvas name="0" width="95" height="82">
+                <vector name="origin" x="66" y="82" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+</imgdir>

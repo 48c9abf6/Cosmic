@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9135003.img">
+    <imgdir name="info">
+        <int name="shop" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="142" height="107">
+            <vector name="origin" x="70" y="104" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="141" height="105">
+            <vector name="origin" x="69" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="141" height="102">
+            <vector name="origin" x="70" y="99" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="143" height="102">
+            <vector name="origin" x="71" y="99" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="141" height="102">
+            <vector name="origin" x="70" y="99" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="141" height="105">
+            <vector name="origin" x="69" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+</imgdir>

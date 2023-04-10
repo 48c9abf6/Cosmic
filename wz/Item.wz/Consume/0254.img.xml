@@ -1,0 +1,5175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="0254.img">
+    <imgdir name="02540000">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33150" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540001">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33150" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540002">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="30470" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540003">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33250" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540004">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36130" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540005">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="30810" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540006">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36780" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540007">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36790" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540008">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36980" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540009">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36750" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540010">
+        <imgdir name="info">
+            <canvas name="icon" width="39" height="31">
+                <vector name="origin" x="6" y="30" />
+            </canvas>
+            <canvas name="iconRaw" width="35" height="30">
+                <vector name="origin" x="2" y="30" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36230" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540011">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35180" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540012">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35060" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540013">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35310" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540014">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35440" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540015">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35490" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540016">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35060" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540017">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33670" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540018">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33930" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540019">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33790" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540020">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35630" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540021">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33990" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540022">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36820" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540023">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34840" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540024">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37610" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540026">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35650" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540027">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35030" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540028">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33680" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540029">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33690" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540030">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36820" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540031">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35490" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540032">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35150" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540033">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40010" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540034">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40060" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540035">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33380" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540036">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33440" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540037">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36690" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540038">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36590" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540039">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36810" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540041">
+        <imgdir name="info">
+            <canvas name="icon" width="37" height="28">
+                <vector name="origin" x="2" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="37" height="27">
+                <vector name="origin" x="2" y="28" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40270" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540044">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40100" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540045">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40510" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540047">
+        <imgdir name="info">
+            <canvas name="icon" width="38" height="29">
+                <vector name="origin" x="3" y="29" />
+            </canvas>
+            <canvas name="iconRaw" width="38" height="27">
+                <vector name="origin" x="3" y="29" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40280" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540048">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40720" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540049">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36180" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540050">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36950" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540051">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33610" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540052">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33620" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540053">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36020" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540062">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40670" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540063">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="43140" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540064">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40290" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540065">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40280" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540066">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36980" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540067">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="43290" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540068">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="43300" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540071">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="43810" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540072">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36310" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540073">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="43330" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540074">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="43660" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540075">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="43810" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540076">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="45000" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540077">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="45010" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540078">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="45090" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540081">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="45220" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540082">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="45230" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540086">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36920" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540087">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35470" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540088">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35500" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540089">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40020" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540090">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46590" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540091">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46600" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540096">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46710" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540097">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="43810" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540098">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46940" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540099">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46970" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540100">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46980" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540105">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46940" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540106">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46710" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540107">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="60130" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540110">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="45090" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540117">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="exchangeableOnce" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="60070" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540118">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="exchangeableOnce" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40270" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540119">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="60200" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540120">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="60210" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540123">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36980" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540124">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35180" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540125">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35440" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540126">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35650" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540127">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40060" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540128">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40510" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540129">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40720" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540130">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="43290" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540131">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="43300" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540132">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="45000" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540133">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="45010" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540134">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="45220" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540135">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="45230" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540136">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46590" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540137">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46600" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540138">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46970" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540139">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46980" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541000">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="31590" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541001">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37060" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541002">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="31310" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541003">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34450" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541004">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="31820" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541005">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37210" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541006">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37770" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541007">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37780" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541008">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37790" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541009">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37960" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541010">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37750" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541011">
+        <imgdir name="info">
+            <canvas name="icon" width="39" height="31">
+                <vector name="origin" x="6" y="30" />
+            </canvas>
+            <canvas name="iconRaw" width="35" height="30">
+                <vector name="origin" x="2" y="30" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34860" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541012">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38290" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541013">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38110" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541014">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38440" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541015">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38560" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541016">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38590" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541017">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38110" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541018">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34860" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541019">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34760" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541020">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34880" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541021">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38740" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541022">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34840" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541023">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37610" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541027">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38760" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541028">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37030" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541029">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37860" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541030">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34590" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541031">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34760" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541032">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38590" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541033">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37800" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541034">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41110" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541035">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41160" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541036">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34330" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541037">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34800" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541038">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37690" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541039">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37810" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541040">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37980" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540040">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36200" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541041">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37080" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541042">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41530" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541043">
+        <imgdir name="info">
+            <canvas name="icon" width="37" height="28">
+                <vector name="origin" x="2" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="37" height="27">
+                <vector name="origin" x="2" y="28" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41350" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541046">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41200" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541047">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41600" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541049">
+        <imgdir name="info">
+            <canvas name="icon" width="38" height="29">
+                <vector name="origin" x="3" y="29" />
+            </canvas>
+            <canvas name="iconRaw" width="38" height="27">
+                <vector name="origin" x="3" y="29" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41360" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541054">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41950" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541055">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38820" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541056">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37950" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541057">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34660" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541058">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34880" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541059">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38120" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541068">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34210" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541069">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41860" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541070">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41750" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541071">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34670" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541072">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41360" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541073">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37960" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541074">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44470" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541075">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44480" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541076">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47000" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541077">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47090" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541078">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41720" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541079">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38620" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541080">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44850" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541081">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47090" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541082">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47270" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541083">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47280" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541084">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47000" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541087">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47530" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541088">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47540" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541093">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38650" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541094">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34660" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541095">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41880" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541096">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37280" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541097">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="48730" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541098">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="48740" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541102">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="48360" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541103">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47090" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541104">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="48650" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541105">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="48960" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541106">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="48970" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541110">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="48650" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541111">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="48360" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541113">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="61120" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541122">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="exchangeableOnce" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="61060" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541123">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="exchangeableOnce" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41350" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541124">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="61190" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541125">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="61200" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541128">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37960" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541129">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38290" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541130">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38560" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541131">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38760" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541132">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41160" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541133">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41600" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541134">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41950" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541135">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44470" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541136">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44480" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541137">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47270" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541138">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47280" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541139">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47530" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541140">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47540" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541141">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="48730" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541142">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="48740" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541143">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="48960" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541144">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+            <int name="noDrop" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="48970" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02542000">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34170" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02542001">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33250" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02542002">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34210" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02542003">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33150" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02542004">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34170" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02542005">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33250" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02542006">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34210" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02544000">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33430" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02545000">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34450" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540140">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="60590" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540141">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="60600" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540142">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="60610" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540146">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="60730" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541145">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="61860" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541146">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="61870" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541147">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="61160" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541151">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="64060" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540025">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35620" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540042">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="30470" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540043">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36750" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540046">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40590" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540054">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40850" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540055">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40860" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540056">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40870" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540057">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40880" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540058">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40890" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540059">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40900" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540060">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40910" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540061">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40920" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540069">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="43710" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540070">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="notSale" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="43720" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540085">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="43810" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540094">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="35360" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540108">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46410" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540109">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="46520" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541024">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="38730" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541044">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37030" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541045">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37860" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541048">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41760" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541050">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41810" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541051">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41820" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541052">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41830" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541053">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41840" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541060">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44040" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541061">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44050" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541062">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44060" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541063">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44070" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541064">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44080" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541065">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44090" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541066">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44100" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541067">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44110" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541092">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47090" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541112">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="47850" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541114">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44980" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541115">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="48620" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02542007">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="accountSharable" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39180" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543002">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33400" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543006">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33430" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543007">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34450" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543008">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34130" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543009">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34100" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543010">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33120" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543011">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33220" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543012">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34320" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543013">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="31440" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543014">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33320" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543015">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="30880" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543018">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="32560" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543019">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="32570" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543020">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="32580" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543021">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36330" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543022">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36340" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543023">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37310" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543024">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="31760" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543029">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="36420" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543030">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="37510" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543043">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39100" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543044">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39120" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543045">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39130" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543046">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39110" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543054">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="28">
+                <vector name="origin" x="-1" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="31" height="26">
+                <vector name="origin" x="-1" y="28" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39270" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543055">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="28">
+                <vector name="origin" x="-1" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="31" height="26">
+                <vector name="origin" x="-1" y="28" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39280" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543056">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="28">
+                <vector name="origin" x="-1" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="31" height="26">
+                <vector name="origin" x="-1" y="28" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39290" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543057">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="28">
+                <vector name="origin" x="-1" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="31" height="26">
+                <vector name="origin" x="-1" y="28" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39300" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543058">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="42070" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543059">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="42060" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543060">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40530" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543061">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41640" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543062">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="41650" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543063">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon" />
+            <uol name="iconRaw" value="../../02540000/info/iconRaw" />
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40520" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543064">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="29">
+                <vector name="origin" x="-1" y="29" />
+            </canvas>
+            <canvas name="iconRaw" width="31" height="26">
+                <vector name="origin" x="-1" y="29" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39310" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543065">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="29">
+                <vector name="origin" x="-1" y="29" />
+            </canvas>
+            <canvas name="iconRaw" width="31" height="26">
+                <vector name="origin" x="-1" y="29" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39320" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543066">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="29">
+                <vector name="origin" x="-1" y="29" />
+            </canvas>
+            <canvas name="iconRaw" width="31" height="26">
+                <vector name="origin" x="-1" y="29" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39330" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543067">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="29">
+                <vector name="origin" x="-1" y="29" />
+            </canvas>
+            <canvas name="iconRaw" width="31" height="26">
+                <vector name="origin" x="-1" y="29" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39340" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543068">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="29">
+                <vector name="origin" x="-1" y="29" />
+            </canvas>
+            <canvas name="iconRaw" width="31" height="26">
+                <vector name="origin" x="-1" y="29" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39350" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543069">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="29">
+                <vector name="origin" x="-1" y="29" />
+            </canvas>
+            <canvas name="iconRaw" width="31" height="26">
+                <vector name="origin" x="-1" y="29" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="notSale" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39360" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543070">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44040" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543071">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40850" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543072">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44050" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543073">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40860" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543074">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44060" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543075">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40870" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543076">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44070" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543077">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40880" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543078">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44080" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543079">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40890" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543080">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44090" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543081">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40900" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543082">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44100" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543083">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40910" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543084">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="44110" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543085">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="0" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="40920" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543086">
+        <imgdir name="spec">
+            <int name="cosmetic" value="39370" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543087">
+        <imgdir name="spec">
+            <int name="cosmetic" value="39380" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543088">
+        <imgdir name="spec">
+            <int name="cosmetic" value="39390" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543089">
+        <imgdir name="spec">
+            <int name="cosmetic" value="39400" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543090">
+        <imgdir name="spec">
+            <int name="cosmetic" value="39410" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543091">
+        <imgdir name="spec">
+            <int name="cosmetic" value="39420" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="34" height="32">
+                <vector name="origin" x="1" y="32" />
+            </canvas>
+            <canvas name="iconRaw" width="34" height="33">
+                <vector name="origin" x="1" y="33" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543092">
+        <imgdir name="spec">
+            <int name="cosmetic" value="39430" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="34" height="32">
+                <vector name="origin" x="1" y="32" />
+            </canvas>
+            <canvas name="iconRaw" width="34" height="32">
+                <vector name="origin" x="1" y="32" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543093">
+        <imgdir name="spec">
+            <int name="cosmetic" value="39440" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="34" height="33">
+                <vector name="origin" x="1" y="33" />
+            </canvas>
+            <canvas name="iconRaw" width="34" height="33">
+                <vector name="origin" x="1" y="33" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543095">
+        <imgdir name="spec">
+            <int name="cosmetic" value="39450" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="33" height="34">
+                <vector name="origin" x="0" y="33" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="34">
+                <vector name="origin" x="0" y="33" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543096">
+        <imgdir name="spec">
+            <int name="cosmetic" value="39460" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="33" height="34">
+                <vector name="origin" x="0" y="33" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="34">
+                <vector name="origin" x="0" y="33" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543097">
+        <imgdir name="spec">
+            <int name="cosmetic" value="32720" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="33" height="29">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="28">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543098">
+        <imgdir name="spec">
+            <int name="cosmetic" value="32730" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="33" height="29">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="28">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543099">
+        <imgdir name="spec">
+            <int name="cosmetic" value="32740" />
+        </imgdir>
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="29">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="28">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543100">
+        <imgdir name="spec">
+            <int name="cosmetic" value="32750" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="33" height="29">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="28">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543101">
+        <imgdir name="spec">
+            <int name="cosmetic" value="32760" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <int name="notSale" value="1" />
+            <canvas name="icon" width="33" height="29">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="28">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543102">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="39470" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540116">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="45410" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543103">
+        <imgdir name="spec">
+            <int name="cosmetic" value="42170" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <canvas name="icon" width="33" height="29">
+                <vector name="origin" x="0" y="29" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="28">
+                <vector name="origin" x="0" y="29" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543106">
+        <imgdir name="spec">
+            <int name="cosmetic" value="42200" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <canvas name="icon" width="33" height="29">
+                <vector name="origin" x="0" y="29" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="28">
+                <vector name="origin" x="0" y="29" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543107">
+        <imgdir name="spec">
+            <int name="cosmetic" value="42210" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <canvas name="icon" width="33" height="29">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="28">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543104">
+        <imgdir name="spec">
+            <int name="cosmetic" value="42180" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <canvas name="icon" width="33" height="29">
+                <vector name="origin" x="0" y="29" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="28">
+                <vector name="origin" x="0" y="29" />
+            </canvas>
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02543105">
+        <imgdir name="spec">
+            <int name="cosmetic" value="42190" />
+            <int name="ignoreMixHair_jp" value="1" />
+        </imgdir>
+        <imgdir name="info">
+            <int name="price" value="1" />
+            <canvas name="icon" width="33" height="29">
+                <vector name="origin" x="0" y="29" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="28">
+                <vector name="origin" x="0" y="29" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02540143">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="45530" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541148">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24" />
+            </canvas>
+            <int name="price" value="1" />
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="61600" />
+        </imgdir>
+    </imgdir>
+</imgdir>

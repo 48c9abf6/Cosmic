@@ -1,43 +1,143 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <imgdir name="0428.img">
-  <imgdir name="04280000">
-    <imgdir name="info">
-      <canvas name="icon" width="33" height="29">
-        <vector name="origin" x="0" y="28"/>
-      </canvas>
-      <canvas name="iconRaw" width="33" height="26">
-        <vector name="origin" x="0" y="28"/>
-      </canvas>
+    <imgdir name="04280000">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="29">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="26">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+        </imgdir>
     </imgdir>
-  </imgdir>
-  <imgdir name="04280001">
-    <imgdir name="info">
-      <canvas name="icon" width="33" height="29">
-        <vector name="origin" x="0" y="28"/>
-      </canvas>
-      <canvas name="iconRaw" width="33" height="26">
-        <vector name="origin" x="0" y="28"/>
-      </canvas>
+    <imgdir name="04280001">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="29">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="33" height="26">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+        </imgdir>
     </imgdir>
-  </imgdir>
-  <imgdir name="04280002">
-    <imgdir name="info">
-      <canvas name="icon" width="37" height="29">
-        <vector name="origin" x="2" y="28"/>
-      </canvas>
-      <canvas name="iconRaw" width="37" height="27">
-        <vector name="origin" x="2" y="28"/>
-      </canvas>
+    <imgdir name="04280002">
+        <imgdir name="info">
+            <canvas name="icon" width="37" height="29">
+                <vector name="origin" x="2" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="37" height="27">
+                <vector name="origin" x="2" y="28" />
+            </canvas>
+        </imgdir>
     </imgdir>
-  </imgdir>
-  <imgdir name="04280003">
-    <imgdir name="info">
-      <canvas name="icon" width="37" height="29">
-        <vector name="origin" x="2" y="28"/>
-      </canvas>
-      <canvas name="iconRaw" width="37" height="27">
-        <vector name="origin" x="2" y="28"/>
-      </canvas>
+    <imgdir name="04280003">
+        <imgdir name="info">
+            <canvas name="icon" width="37" height="29">
+                <vector name="origin" x="2" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="37" height="27">
+                <vector name="origin" x="2" y="28" />
+            </canvas>
+        </imgdir>
     </imgdir>
-  </imgdir>
+    <imgdir name="04280013">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32" />
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04280012">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="29">
+                <vector name="origin" x="-2" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="29" height="27">
+                <vector name="origin" x="-2" y="28" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04280011">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="29">
+                <vector name="origin" x="-2" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="29" height="27">
+                <vector name="origin" x="-2" y="28" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04280010">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="29">
+                <vector name="origin" x="-2" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="29" height="27">
+                <vector name="origin" x="-2" y="28" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04280009">
+        <imgdir name="info">
+            <canvas name="icon" width="35" height="32">
+                <vector name="origin" x="1" y="31" />
+            </canvas>
+            <canvas name="iconRaw" width="35" height="32">
+                <vector name="origin" x="1" y="31" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04280008">
+        <imgdir name="info">
+            <canvas name="icon" width="35" height="32">
+                <vector name="origin" x="1" y="31" />
+            </canvas>
+            <canvas name="iconRaw" width="35" height="32">
+                <vector name="origin" x="1" y="31" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04280007">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="31">
+                <vector name="origin" x="-1" y="31" />
+            </canvas>
+            <canvas name="iconRaw" width="31" height="30">
+                <vector name="origin" x="-1" y="31" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04280006">
+        <imgdir name="info">
+            <canvas name="icon" width="35" height="35">
+                <vector name="origin" x="0" y="35" />
+            </canvas>
+            <canvas name="iconRaw" width="35" height="35">
+                <vector name="origin" x="0" y="35" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04280005">
+        <imgdir name="info">
+            <canvas name="icon" width="30" height="35">
+                <vector name="origin" x="0" y="35" />
+            </canvas>
+            <canvas name="iconRaw" width="30" height="35">
+                <vector name="origin" x="0" y="35" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04280004">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="31">
+                <vector name="origin" x="0" y="31" />
+            </canvas>
+            <canvas name="iconRaw" width="31" height="31">
+                <vector name="origin" x="0" y="31" />
+            </canvas>
+        </imgdir>
+    </imgdir>
 </imgdir>

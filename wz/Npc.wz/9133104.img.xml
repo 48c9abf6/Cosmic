@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9133104.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="magi_3rd_parao" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="56" height="58">
+            <vector name="origin" x="33" y="58" />
+            <int name="z" value="0" />
+            <vector name="lt" x="-33" y="-57" />
+            <vector name="rb" x="30" y="0" />
+            <vector name="head" x="-19" y="-39" />
+        </canvas>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="56" height="58">
+            <vector name="origin" x="33" y="58" />
+            <int name="z" value="0" />
+            <vector name="lt" x="-33" y="-57" />
+            <vector name="rb" x="30" y="0" />
+            <vector name="head" x="-19" y="-39" />
+        </canvas>
+    </imgdir>
+    <imgdir name="eye">
+        <canvas name="0" width="56" height="58">
+            <vector name="origin" x="33" y="58" />
+            <int name="z" value="0" />
+            <vector name="lt" x="-33" y="-57" />
+            <vector name="rb" x="30" y="0" />
+            <vector name="head" x="-19" y="-39" />
+        </canvas>
+    </imgdir>
+</imgdir>

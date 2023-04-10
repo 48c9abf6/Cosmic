@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9270199.img">
+    <imgdir name="info">
+        <imgdir name="speak">
+            <string name="0" value="n0" />
+            <string name="1" value="n1" />
+        </imgdir>
+        <int name="hide" value="1" />
+        <int name="hideName" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="69" height="59">
+            <vector name="origin" x="26" y="59" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="67" height="58">
+            <vector name="origin" x="25" y="58" />
+            <int name="delay" value="150" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <uol name="stand" value="../stand" />
+        <imgdir name="66246">
+            <imgdir name="0">
+                <string name="key" value="hide" />
+                <string name="value" value="off" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

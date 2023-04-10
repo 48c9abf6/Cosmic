@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="01983464.img">
+    <imgdir name="info">
+        <canvas name="icon" width="37" height="31">
+            <vector name="origin" x="3" y="31" />
+        </canvas>
+        <canvas name="iconRaw" width="37" height="31">
+            <vector name="origin" x="3" y="31" />
+        </canvas>
+    </imgdir>
+    <imgdir name="sit">
+        <imgdir name="0">
+            <int name="delay" value="180" />
+            <canvas name="0" width="184" height="204">
+                <vector name="origin" x="207" y="183" />
+                <int name="delay" value="180" />
+                <string name="z" value="tamingMobFront" />
+                <imgdir name="map">
+                    <vector name="navel" x="-107" y="-167" />
+                </imgdir>
+            </canvas>
+            <int name="forceCharacterFlip" value="1" />
+            <string name="forceCharacterAction" value="sit" />
+            <int name="forceCharacterActionFrameIndex" value="0" />
+        </imgdir>
+        <imgdir name="1">
+            <int name="delay" value="180" />
+            <canvas name="0" width="184" height="204">
+                <vector name="origin" x="207" y="183" />
+                <int name="delay" value="180" />
+                <string name="z" value="tamingMobFront" />
+                <imgdir name="map">
+                    <vector name="navel" x="-107" y="-167" />
+                </imgdir>
+            </canvas>
+            <int name="forceCharacterFlip" value="1" />
+            <string name="forceCharacterAction" value="sit" />
+            <int name="forceCharacterActionFrameIndex" value="0" />
+        </imgdir>
+        <imgdir name="2">
+            <int name="delay" value="180" />
+            <canvas name="0" width="184" height="204">
+                <vector name="origin" x="207" y="183" />
+                <int name="delay" value="180" />
+                <string name="z" value="tamingMobFront" />
+                <imgdir name="map">
+                    <vector name="navel" x="-107" y="-167" />
+                </imgdir>
+            </canvas>
+            <int name="forceCharacterFlip" value="1" />
+            <string name="forceCharacterAction" value="sit" />
+            <int name="forceCharacterActionFrameIndex" value="0" />
+        </imgdir>
+        <imgdir name="3">
+            <int name="delay" value="180" />
+            <canvas name="0" width="184" height="204">
+                <vector name="origin" x="207" y="183" />
+                <int name="delay" value="180" />
+                <string name="z" value="tamingMobFront" />
+                <imgdir name="map">
+                    <vector name="navel" x="-107" y="-167" />
+                </imgdir>
+            </canvas>
+            <int name="forceCharacterFlip" value="1" />
+            <string name="forceCharacterAction" value="sit" />
+            <int name="forceCharacterActionFrameIndex" value="0" />
+        </imgdir>
+    </imgdir>
+</imgdir>

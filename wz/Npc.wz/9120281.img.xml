@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9120281.img">
+    <imgdir name="info">
+        <imgdir name="illustration">
+            <imgdir name="main">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0" />
+                    <int name="z" value="0" />
+                </canvas>
+            </imgdir>
+            <imgdir name="face">
+                <canvas name="0" width="589" height="450">
+                    <vector name="origin" x="-25" y="512" />
+                    <int name="z" value="0" />
+                </canvas>
+                <canvas name="1" width="527" height="529">
+                    <vector name="origin" x="-114" y="512" />
+                    <int name="z" value="0" />
+                </canvas>
+                <canvas name="2" width="536" height="590">
+                    <vector name="origin" x="-106" y="572" />
+                    <int name="z" value="0" />
+                </canvas>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="114" height="122">
+            <vector name="origin" x="63" y="105" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+    </imgdir>
+</imgdir>

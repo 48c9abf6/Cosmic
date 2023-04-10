@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9062247.img">
+    <imgdir name="info" />
+    <imgdir name="stand">
+        <canvas name="0" width="63" height="88">
+            <vector name="origin" x="16" y="86" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="63" height="88">
+            <vector name="origin" x="16" y="86" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition2">
+        <imgdir name="100433">
+            <imgdir name="0">
+                <string name="key" value="47" />
+                <string name="value" value="0" />
+            </imgdir>
+        </imgdir>
+        <int name="hide" value="1" />
+        <uol name="stand" value="../stand" />
+        <uol name="say" value="../say" />
+    </imgdir>
+</imgdir>

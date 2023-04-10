@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="2560000.img">
+    <imgdir name="info">
+        <imgdir name="illustration2">
+            <canvas name="base" width="1" height="1" />
+            <imgdir name="face">
+                <canvas name="0" width="216" height="287">
+                    <vector name="origin" x="-2" y="175" />
+                    <int name="z" value="0" />
+                    <int name="delay" value="150" />
+                </canvas>
+                <canvas name="1" width="216" height="287">
+                    <vector name="origin" x="-2" y="174" />
+                    <int name="z" value="0" />
+                </canvas>
+                <canvas name="2" width="216" height="287">
+                    <vector name="origin" x="-2" y="175" />
+                    <int name="z" value="0" />
+                </canvas>
+                <canvas name="3" width="236" height="287">
+                    <vector name="origin" x="-2" y="175" />
+                    <int name="z" value="0" />
+                </canvas>
+                <canvas name="4" width="216" height="287">
+                    <vector name="origin" x="-2" y="175" />
+                    <int name="z" value="0" />
+                </canvas>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="68" height="91">
+            <vector name="origin" x="33" y="90" />
+        </canvas>
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="68" height="91">
+            <vector name="origin" x="33" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="68" height="91">
+            <vector name="origin" x="33" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="68" height="91">
+            <vector name="origin" x="33" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="68" height="91">
+            <vector name="origin" x="33" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="68" height="91">
+            <vector name="origin" x="33" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="68" height="91">
+            <vector name="origin" x="33" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <imgdir name="speak">
+            <string name="0" value="s0" />
+            <string name="1" value="s1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="hand">
+        <canvas name="0" width="68" height="91">
+            <vector name="origin" x="33" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="66" height="91">
+            <vector name="origin" x="31" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="65" height="91">
+            <vector name="origin" x="30" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="65" height="91">
+            <vector name="origin" x="30" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="65" height="91">
+            <vector name="origin" x="30" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="65" height="91">
+            <vector name="origin" x="30" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="65" height="91">
+            <vector name="origin" x="30" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="65" height="91">
+            <vector name="origin" x="30" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="8" width="67" height="91">
+            <vector name="origin" x="32" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="eye">
+        <canvas name="0" width="68" height="91">
+            <vector name="origin" x="33" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="68" height="91">
+            <vector name="origin" x="33" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="68" height="91">
+            <vector name="origin" x="33" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="68" height="91">
+            <vector name="origin" x="33" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="portion1">
+        <canvas name="0" width="88" height="91">
+            <vector name="origin" x="44" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="89" height="91">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="89" height="91">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="89" height="91">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="89" height="91">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="89" height="91">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="89" height="91">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="89" height="91">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+    <imgdir name="portion2">
+        <canvas name="0" width="88" height="91">
+            <vector name="origin" x="44" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="89" height="91">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="89" height="102">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="106" height="113">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="106" height="107">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="110" height="100">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="113" height="102">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="115" height="103">
+            <vector name="origin" x="45" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+    <imgdir name="attack">
+        <int name="special" value="1" />
+        <canvas name="0" width="161" height="128">
+            <vector name="origin" x="50" y="120" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="1" width="229" height="158">
+            <vector name="origin" x="94" y="148" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="2" width="427" height="176">
+            <vector name="origin" x="296" y="153" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="3" width="450" height="166">
+            <vector name="origin" x="308" y="150" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="4" width="463" height="162">
+            <vector name="origin" x="313" y="147" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="5" width="471" height="164">
+            <vector name="origin" x="316" y="151" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="6" width="470" height="169">
+            <vector name="origin" x="315" y="156" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="7" width="366" height="172">
+            <vector name="origin" x="295" y="159" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="8" width="279" height="137">
+            <vector name="origin" x="210" y="121" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="9" width="294" height="138">
+            <vector name="origin" x="222" y="124" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="10" width="294" height="128">
+            <vector name="origin" x="223" y="116" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="11" width="287" height="141">
+            <vector name="origin" x="210" y="128" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="12" width="289" height="130">
+            <vector name="origin" x="210" y="117" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="13" width="286" height="128">
+            <vector name="origin" x="210" y="118" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="14" width="280" height="126">
+            <vector name="origin" x="210" y="113" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="15" width="284" height="132">
+            <vector name="origin" x="213" y="119" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <uol name="16" value="8" />
+        <uol name="17" value="9" />
+        <uol name="18" value="10" />
+        <uol name="19" value="11" />
+        <uol name="20" value="12" />
+        <uol name="21" value="13" />
+        <uol name="22" value="14" />
+        <uol name="23" value="15" />
+        <uol name="26" value="8" />
+        <uol name="27" value="9" />
+        <uol name="28" value="10" />
+        <uol name="29" value="11" />
+        <uol name="30" value="12" />
+        <uol name="31" value="13" />
+        <uol name="32" value="14" />
+        <uol name="33" value="15" />
+        <uol name="34" value="8" />
+        <uol name="35" value="9" />
+        <uol name="36" value="10" />
+        <uol name="37" value="11" />
+        <uol name="38" value="12" />
+        <uol name="39" value="13" />
+        <uol name="40" value="14" />
+        <uol name="41" value="15" />
+        <uol name="42" value="8" />
+        <uol name="43" value="9" />
+        <uol name="44" value="10" />
+        <uol name="45" value="11" />
+        <uol name="46" value="12" />
+        <uol name="47" value="13" />
+        <uol name="48" value="14" />
+        <uol name="49" value="15" />
+        <uol name="50" value="8" />
+        <uol name="51" value="9" />
+        <uol name="52" value="10" />
+        <uol name="53" value="11" />
+        <uol name="54" value="12" />
+        <uol name="55" value="13" />
+        <uol name="56" value="14" />
+        <uol name="57" value="15" />
+        <uol name="58" value="8" />
+        <uol name="59" value="9" />
+        <uol name="60" value="10" />
+        <uol name="61" value="11" />
+        <uol name="62" value="12" />
+        <uol name="63" value="13" />
+        <uol name="64" value="14" />
+        <uol name="65" value="15" />
+        <uol name="66" value="8" />
+        <uol name="67" value="9" />
+        <uol name="68" value="10" />
+        <uol name="69" value="11" />
+        <uol name="70" value="12" />
+        <uol name="71" value="13" />
+        <uol name="72" value="14" />
+        <uol name="73" value="15" />
+        <uol name="74" value="8" />
+        <uol name="75" value="9" />
+        <uol name="76" value="10" />
+        <uol name="77" value="11" />
+        <uol name="78" value="12" />
+        <uol name="79" value="13" />
+        <uol name="80" value="14" />
+        <uol name="81" value="15" />
+        <uol name="82" value="8" />
+        <uol name="83" value="9" />
+        <uol name="84" value="10" />
+        <uol name="85" value="11" />
+        <uol name="86" value="12" />
+        <uol name="87" value="13" />
+        <uol name="88" value="14" />
+        <uol name="89" value="15" />
+        <uol name="90" value="8" />
+        <uol name="91" value="9" />
+        <uol name="92" value="10" />
+        <uol name="93" value="11" />
+        <uol name="94" value="12" />
+        <uol name="95" value="13" />
+        <uol name="96" value="14" />
+        <uol name="97" value="15" />
+        <uol name="98" value="8" />
+        <uol name="99" value="9" />
+        <uol name="100" value="10" />
+        <uol name="101" value="11" />
+        <uol name="102" value="12" />
+        <uol name="103" value="13" />
+        <uol name="104" value="14" />
+        <uol name="105" value="15" />
+        <uol name="106" value="8" />
+        <uol name="107" value="9" />
+        <uol name="108" value="10" />
+        <uol name="109" value="11" />
+        <uol name="110" value="12" />
+        <uol name="111" value="13" />
+        <uol name="112" value="14" />
+        <uol name="113" value="15" />
+        <uol name="114" value="8" />
+        <uol name="115" value="9" />
+        <uol name="116" value="10" />
+        <uol name="117" value="11" />
+        <uol name="118" value="12" />
+        <uol name="119" value="13" />
+        <uol name="120" value="14" />
+        <uol name="121" value="15" />
+        <uol name="122" value="8" />
+        <uol name="123" value="9" />
+        <uol name="124" value="10" />
+        <uol name="125" value="11" />
+        <uol name="126" value="12" />
+        <uol name="127" value="13" />
+        <uol name="128" value="14" />
+        <uol name="129" value="15" />
+        <uol name="130" value="8" />
+        <uol name="131" value="9" />
+        <uol name="132" value="10" />
+        <uol name="133" value="11" />
+        <uol name="134" value="12" />
+        <uol name="135" value="13" />
+        <uol name="136" value="14" />
+        <uol name="137" value="15" />
+        <uol name="138" value="8" />
+        <uol name="139" value="9" />
+        <uol name="140" value="10" />
+        <uol name="141" value="11" />
+        <uol name="142" value="12" />
+        <uol name="143" value="13" />
+        <uol name="144" value="14" />
+        <uol name="145" value="15" />
+        <uol name="146" value="8" />
+        <uol name="147" value="9" />
+        <uol name="148" value="10" />
+        <uol name="149" value="11" />
+        <uol name="150" value="12" />
+        <uol name="151" value="13" />
+        <uol name="152" value="14" />
+        <uol name="153" value="15" />
+        <uol name="154" value="8" />
+        <uol name="155" value="9" />
+        <uol name="156" value="10" />
+        <uol name="157" value="11" />
+        <uol name="158" value="12" />
+        <uol name="159" value="13" />
+        <uol name="160" value="14" />
+        <uol name="161" value="15" />
+        <uol name="162" value="8" />
+        <uol name="163" value="9" />
+        <uol name="164" value="10" />
+        <uol name="165" value="11" />
+        <uol name="166" value="12" />
+        <uol name="167" value="13" />
+        <uol name="168" value="14" />
+        <uol name="169" value="15" />
+        <uol name="170" value="8" />
+        <uol name="171" value="9" />
+        <uol name="172" value="10" />
+        <uol name="173" value="11" />
+        <uol name="174" value="12" />
+        <uol name="175" value="13" />
+        <uol name="176" value="14" />
+        <uol name="177" value="15" />
+        <uol name="178" value="8" />
+        <uol name="179" value="9" />
+        <uol name="180" value="10" />
+        <uol name="181" value="11" />
+        <uol name="182" value="12" />
+        <uol name="183" value="13" />
+        <uol name="184" value="14" />
+        <uol name="185" value="15" />
+        <uol name="186" value="8" />
+        <uol name="187" value="9" />
+        <uol name="188" value="10" />
+        <uol name="189" value="11" />
+        <uol name="190" value="12" />
+        <uol name="191" value="13" />
+        <uol name="192" value="14" />
+        <uol name="193" value="15" />
+        <uol name="194" value="8" />
+        <uol name="195" value="9" />
+        <uol name="196" value="10" />
+        <uol name="197" value="11" />
+        <uol name="198" value="12" />
+        <uol name="199" value="13" />
+        <uol name="200" value="14" />
+        <uol name="201" value="15" />
+        <uol name="202" value="8" />
+        <uol name="203" value="9" />
+        <uol name="204" value="10" />
+        <uol name="205" value="11" />
+        <uol name="206" value="12" />
+        <uol name="207" value="13" />
+        <uol name="208" value="14" />
+        <uol name="209" value="15" />
+        <uol name="210" value="8" />
+        <uol name="211" value="9" />
+        <uol name="212" value="10" />
+        <uol name="213" value="11" />
+        <uol name="214" value="12" />
+        <uol name="215" value="13" />
+        <uol name="216" value="14" />
+        <uol name="217" value="15" />
+        <uol name="218" value="8" />
+        <uol name="219" value="9" />
+        <uol name="220" value="10" />
+        <uol name="221" value="11" />
+        <uol name="222" value="12" />
+        <uol name="223" value="13" />
+        <uol name="224" value="14" />
+        <uol name="225" value="15" />
+        <uol name="226" value="8" />
+        <uol name="227" value="9" />
+        <uol name="228" value="10" />
+        <uol name="229" value="11" />
+        <uol name="230" value="12" />
+        <uol name="231" value="13" />
+        <uol name="232" value="14" />
+        <uol name="233" value="15" />
+        <uol name="234" value="8" />
+        <uol name="235" value="9" />
+        <uol name="236" value="10" />
+        <uol name="237" value="11" />
+        <uol name="238" value="12" />
+        <uol name="239" value="13" />
+        <uol name="240" value="14" />
+        <uol name="241" value="15" />
+        <uol name="242" value="8" />
+        <uol name="243" value="9" />
+        <uol name="244" value="10" />
+        <uol name="245" value="11" />
+        <uol name="246" value="12" />
+        <uol name="247" value="13" />
+        <uol name="248" value="14" />
+        <uol name="249" value="15" />
+        <uol name="250" value="8" />
+        <uol name="251" value="9" />
+        <uol name="252" value="10" />
+        <uol name="253" value="11" />
+        <uol name="254" value="12" />
+        <uol name="255" value="13" />
+        <uol name="256" value="14" />
+        <uol name="257" value="15" />
+        <uol name="258" value="8" />
+        <uol name="259" value="9" />
+        <uol name="260" value="10" />
+        <uol name="261" value="11" />
+        <uol name="262" value="12" />
+        <uol name="263" value="13" />
+        <uol name="264" value="14" />
+        <uol name="265" value="15" />
+        <uol name="266" value="8" />
+        <uol name="267" value="9" />
+        <uol name="268" value="10" />
+        <uol name="269" value="11" />
+        <uol name="270" value="12" />
+        <uol name="271" value="13" />
+        <uol name="272" value="14" />
+        <uol name="273" value="15" />
+        <uol name="274" value="8" />
+        <uol name="275" value="9" />
+        <uol name="276" value="10" />
+        <uol name="277" value="11" />
+        <uol name="278" value="12" />
+        <uol name="279" value="13" />
+        <uol name="280" value="14" />
+        <uol name="281" value="15" />
+    </imgdir>
+    <imgdir name="attack2">
+        <canvas name="0" width="296" height="208">
+            <vector name="origin" x="170" y="150" />
+            <int name="z" value="0" />
+            <int name="delay" value="60" />
+        </canvas>
+        <canvas name="1" width="291" height="156">
+            <vector name="origin" x="157" y="147" />
+            <int name="z" value="0" />
+            <int name="delay" value="60" />
+        </canvas>
+        <canvas name="2" width="287" height="155">
+            <vector name="origin" x="153" y="147" />
+            <int name="z" value="0" />
+            <int name="delay" value="60" />
+        </canvas>
+        <canvas name="3" width="282" height="150">
+            <vector name="origin" x="151" y="145" />
+            <int name="z" value="0" />
+            <int name="delay" value="60" />
+        </canvas>
+        <canvas name="4" width="239" height="139">
+            <vector name="origin" x="118" y="135" />
+            <int name="z" value="0" />
+            <int name="delay" value="60" />
+        </canvas>
+        <canvas name="5" width="173" height="142">
+            <vector name="origin" x="51" y="136" />
+            <int name="z" value="0" />
+            <int name="delay" value="60" />
+        </canvas>
+        <canvas name="6" width="154" height="111">
+            <vector name="origin" x="32" y="110" />
+            <int name="z" value="0" />
+            <int name="delay" value="60" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+</imgdir>

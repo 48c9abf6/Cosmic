@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9100031.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="npc_9100031" />
+            </imgdir>
+        </imgdir>
+        <int name="dcMark" value="1" />
+        <int name="hideName" value="1" />
+        <int name="dcLeft" value="-42" />
+        <int name="dcRight" value="42" />
+        <int name="dcTop" value="-175" />
+        <int name="dcBottom" value="0" />
+        <canvas name="default" width="68" height="87">
+            <vector name="origin" x="128" y="123" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="85" height="88">
+            <vector name="origin" x="42" y="128" />
+            <int name="z" value="0" />
+            <int name="delay" value="900" />
+        </canvas>
+    </imgdir>
+</imgdir>

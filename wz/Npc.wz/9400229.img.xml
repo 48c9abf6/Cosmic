@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9400229.img">
+    <imgdir name="info">
+        <int name="hideName" value="1" />
+        <int name="questIconPreStart" value="30" />
+        <canvas name="default" width="164" height="107">
+            <vector name="origin" x="82" y="107" />
+        </canvas>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="342" height="155">
+            <vector name="origin" x="98" y="155" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <imgdir name="stand">
+            <canvas name="0" width="342" height="155">
+                <vector name="origin" x="98" y="155" />
+            </canvas>
+        </imgdir>
+        <int name="63053" value="2" />
+    </imgdir>
+    <imgdir name="condition2">
+        <imgdir name="stand">
+            <canvas name="0" width="342" height="155">
+                <vector name="origin" x="98" y="155" />
+            </canvas>
+        </imgdir>
+        <imgdir name="63253">
+            <string name="value" value="lig" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition3">
+        <imgdir name="stand">
+            <canvas name="0" width="253" height="362">
+                <vector name="origin" x="118" y="362" />
+            </canvas>
+        </imgdir>
+        <int name="63020" value="2" />
+    </imgdir>
+</imgdir>

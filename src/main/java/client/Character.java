@@ -200,7 +200,7 @@ public class Character extends AbstractCharacterObject {
     private Map<Quest, Long> questExpirations = new LinkedHashMap<>();
     private ScheduledFuture<?> dragonBloodSchedule;
     private ScheduledFuture<?> hpDecreaseTask;
-    private ScheduledFuture<?> beholderHealingSchedule, beholderBuffSchedule, berserkSchedule;
+    private ScheduledFuture<?> beholderHealingSchedule, beholderBuffSchedule, berserkSchedule, buffFreeMarketSchedule;
     private ScheduledFuture<?> skillCooldownTask = null;
     private ScheduledFuture<?> buffExpireTask = null;
     private ScheduledFuture<?> itemExpireTask = null;
@@ -4333,6 +4333,7 @@ public class Character extends AbstractCharacterObject {
             case AVOID:
             case SPEED:
             case JUMP:
+            case EXPRATE:
                 return false;
 
             default:
@@ -5122,6 +5123,8 @@ public class Character extends AbstractCharacterObject {
         }
         return count;
     }
+    
+    
 
     public int getCleanItemQuantity(int itemid, boolean checkEquipped) {
         int count = inventory[ItemConstants.getInventoryType(itemid).ordinal()].countNotOwnedById(itemid);
@@ -6653,9 +6656,11 @@ public class Character extends AbstractCharacterObject {
             chrLock.unlock();
         }
 
+        /*
         for (Integer couponId : couponEffects) {
             commitBuffCoupon(couponId);
         }
+        */
     }
 
     private void revertCouponRates() {
@@ -10428,6 +10433,11 @@ public class Character extends AbstractCharacterObject {
             berserkSchedule.cancel(true);
         }
         berserkSchedule = null;
+        
+        if (buffFreeMarketSchedule != null) {
+            buffFreeMarketSchedule.cancel(true);
+        }
+        buffFreeMarketSchedule = null;        
 
         unregisterChairBuff();
         cancelBuffExpireTask();
@@ -11311,4 +11321,27 @@ public class Character extends AbstractCharacterObject {
     public void setChasing(boolean chasing) {
         this.chasing = chasing;
     }
+    
+    public void cancelFreeMarketBuff() {
+        if (buffFreeMarketSchedule != null) {
+            buffFreeMarketSchedule.cancel(false);
+            buffFreeMarketSchedule = null;
+        }
+    }    
+    
+    public void startFreeMarketBuff() {
+        if (buffFreeMarketSchedule != null) {
+            buffFreeMarketSchedule.cancel(false);
+        }
+        final Character chr = this;
+        buffFreeMarketSchedule = TimerManager.getInstance().register(new Runnable() {
+            @Override
+            public void run() {
+                if (awayFromWorld.get()) {
+                    return;
+                }
+                ItemInformationProvider.getInstance().getItemEffect(2022458).applyTo(chr);
+            }
+        }, 60 * 1000, 5 * 1000);
+    }    
 }

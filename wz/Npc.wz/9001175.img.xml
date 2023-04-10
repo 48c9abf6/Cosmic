@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9001175.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="missiontospace" />
+            </imgdir>
+        </imgdir>
+        <imgdir name="speak">
+            <string name="0" value="n0" />
+            <string name="1" value="n1" />
+        </imgdir>
+        <int name="questIconPreStart" value="25" />
+        <int name="dcMark" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="86" height="96">
+            <vector name="origin" x="37" y="96" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="1" width="87" height="95">
+            <vector name="origin" x="37" y="95" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <uol name="2" value="0" />
+        <uol name="3" value="1" />
+        <canvas name="4" width="87" height="95">
+            <vector name="origin" x="37" y="95" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="5" width="86" height="96">
+            <vector name="origin" x="36" y="96" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <uol name="6" value="4" />
+        <uol name="7" value="5" />
+    </imgdir>
+</imgdir>

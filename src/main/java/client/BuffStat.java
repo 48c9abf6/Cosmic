@@ -52,6 +52,7 @@ public enum BuffStat {
 
     // ------ monster card buffs, thanks to Arnah (Vertisy) ------
     ITEM_UP_BY_ITEM(0x100000L),
+    EXPRATE(0x400000L),
     RESPECT_PIMMUNE(0x200000L),
     RESPECT_MIMMUNE(0x400000L),
     DEFENSE_ATT(0x800000L),

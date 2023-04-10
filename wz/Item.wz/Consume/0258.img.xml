@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="0258.img">
+    <imgdir name="02580000">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="34">
+                <vector name="origin" x="0" y="32" />
+            </canvas>
+            <canvas name="iconRaw" width="31" height="34">
+                <vector name="origin" x="0" y="32" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+    </imgdir>
+</imgdir>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9100042.img">
+    <imgdir name="info">
+        <int name="hideName" value="1" />
+        <int name="hide" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="39" height="64">
+            <vector name="origin" x="19" y="64" />
+            <int name="delay" value="5000" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <imgdir name="stand">
+            <canvas name="0" width="39" height="64">
+                <vector name="origin" x="19" y="64" />
+                <int name="delay" value="5000" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+        <imgdir name="501022">
+            <imgdir name="0">
+                <string name="key" value="mq" />
+                <string name="value" value="0" />
+            </imgdir>
+            <imgdir name="1">
+                <string name="value" value="3" />
+                <string name="key" value="count" />
+            </imgdir>
+        </imgdir>
+        <int name="hide" value="0" />
+    </imgdir>
+    <imgdir name="condition2">
+        <imgdir name="stand">
+            <canvas name="0" width="50" height="74">
+                <vector name="origin" x="24" y="74" />
+                <int name="delay" value="5000" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+        <imgdir name="501022">
+            <imgdir name="0">
+                <string name="key" value="mq" />
+                <string name="value" value="1" />
+            </imgdir>
+            <imgdir name="1">
+                <string name="value" value="3" />
+                <string name="key" value="count" />
+            </imgdir>
+        </imgdir>
+        <int name="hide" value="0" />
+    </imgdir>
+    <imgdir name="condition3">
+        <imgdir name="stand">
+            <canvas name="0" width="50" height="74">
+                <vector name="origin" x="24" y="74" />
+                <int name="delay" value="5000" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+        <imgdir name="501022">
+            <imgdir name="0">
+                <string name="key" value="mq" />
+                <string name="value" value="2" />
+            </imgdir>
+            <imgdir name="1">
+                <string name="key" value="count" />
+                <string name="value" value="3" />
+            </imgdir>
+        </imgdir>
+        <int name="hide" value="0" />
+    </imgdir>
+    <imgdir name="condition4">
+        <imgdir name="stand">
+            <canvas name="0" width="80" height="80">
+                <vector name="origin" x="26" y="80" />
+                <int name="delay" value="5000" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+        <imgdir name="501022">
+            <imgdir name="0">
+                <string name="key" value="mq" />
+                <string name="value" value="3" />
+            </imgdir>
+            <imgdir name="1">
+                <string name="value" value="3" />
+                <string name="key" value="count" />
+            </imgdir>
+        </imgdir>
+        <int name="hide" value="0" />
+    </imgdir>
+</imgdir>

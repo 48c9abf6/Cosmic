@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9400940.img">
+    <imgdir name="info">
+        <int name="hideName" value="1" />
+        <int name="trunkPut" value="500" />
+        <int name="trunkGet" value="1000" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="60" height="92">
+            <vector name="origin" x="29" y="92" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+</imgdir>

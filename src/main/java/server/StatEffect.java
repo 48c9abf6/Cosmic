@@ -75,7 +75,7 @@ public class StatEffect {
     private boolean skill;
     private List<Pair<BuffStat, Integer>> statups;
     private Map<MonsterStatus, Integer> monsterStatus;
-    private int x, y, mobCount, moneyCon, cooldown, morphId = 0, ghost, fatigue, berserk, booster;
+    private int x, y, mobCount, moneyCon, cooldown, morphId = 0, ghost, fatigue, berserk, booster, expBuff, itemup, mesoup;
     private double prop;
     private int itemCon, itemConNo;
     private int damage, attackCount, fixdamage;
@@ -208,6 +208,10 @@ public class StatEffect {
         ret.ghost = DataTool.getInt("ghost", source, 0);
         ret.fatigue = DataTool.getInt("incFatigue", source, 0);
         ret.repeatEffect = DataTool.getInt("repeatEffect", source, 0) > 0;
+        
+        ret.expBuff = DataTool.getInt("expBuff", source, 0);
+        ret.itemup = DataTool.getInt("itemupbyitem", source, 0);
+        ret.mesoup = DataTool.getInt("mesoupbyitem", source, 0);
 
         Data mdd = source.getChildByPath("0");
         if (mdd != null && mdd.getChildren().size() > 0) {
@@ -392,6 +396,10 @@ public class StatEffect {
             addBuffStatPairToListIfNotZero(statups, BuffStat.AVOID, (int) ret.avoid);
             addBuffStatPairToListIfNotZero(statups, BuffStat.SPEED, (int) ret.speed);
             addBuffStatPairToListIfNotZero(statups, BuffStat.JUMP, (int) ret.jump);
+            
+            addBuffStatPairToListIfNotZero(statups, BuffStat.EXPRATE, (int) ret.expBuff);
+            addBuffStatPairToListIfNotZero(statups, BuffStat.ITEM_UP_BY_ITEM, (int) ret.itemup);
+            addBuffStatPairToListIfNotZero(statups, BuffStat.MESO_UP_BY_ITEM, (int) ret.mesoup);
         }
 
         Data ltd = source.getChildByPath("lt");

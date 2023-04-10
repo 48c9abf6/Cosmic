@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9400952.img">
+    <imgdir name="info">
+        <int name="shop" value="1" />
+        <int name="scriptNpcShop" value="1" />
+        <int name="dcRight" value="75" />
+        <int name="dcLeft" value="-65" />
+        <int name="dcTop" value="-100" />
+        <int name="dcBottom" value="0" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="220" height="154">
+            <vector name="origin" x="110" y="154" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+</imgdir>

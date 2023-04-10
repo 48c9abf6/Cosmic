@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9201274.img">
+    <imgdir name="info">
+        <int name="forceMove" value="1" />
+    </imgdir>
+    <imgdir name="move">
+        <canvas name="0" width="53" height="59">
+            <vector name="origin" x="30" y="59" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="53" height="58">
+            <vector name="origin" x="30" y="58" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="53" height="59">
+            <vector name="origin" x="30" y="59" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="3" width="51" height="58">
+            <vector name="origin" x="28" y="58" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="43" height="59">
+            <vector name="origin" x="20" y="59" />
+            <int name="z" value="0" />
+            <int name="delay" value="3000" />
+        </canvas>
+    </imgdir>
+    <imgdir name="attack">
+        <canvas name="0" width="53" height="59">
+            <vector name="origin" x="31" y="59" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="49" height="56">
+            <vector name="origin" x="24" y="56" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="49" height="56">
+            <vector name="origin" x="22" y="56" />
+            <int name="z" value="0" />
+        </canvas>
+        <uol name="3" value="1" />
+        <uol name="4" value="0" />
+        <int name="special" value="1" />
+    </imgdir>
+</imgdir>

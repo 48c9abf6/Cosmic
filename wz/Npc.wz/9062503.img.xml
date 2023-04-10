@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9062503.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="npc_9062503" />
+            </imgdir>
+        </imgdir>
+        <canvas name="default" width="111" height="152">
+            <vector name="origin" x="55" y="151" />
+            <int name="z" value="0" />
+        </canvas>
+        <int name="dcRight" value="103" />
+        <int name="dcLeft" value="-56" />
+        <int name="dcBottom" value="0" />
+        <int name="dcTop" value="-295" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="8" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="9" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="10" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="11" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="12" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="13" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="14" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="15" width="226" height="304">
+            <vector name="origin" x="106" y="304" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+</imgdir>

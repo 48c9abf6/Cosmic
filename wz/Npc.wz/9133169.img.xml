@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9133169.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="CB3_exit" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="55" height="62">
+            <vector name="origin" x="29" y="87" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+</imgdir>

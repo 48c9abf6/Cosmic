@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9062662.img">
+    <imgdir name="info">
+        <int name="dcLeft" value="-63" />
+        <int name="dcTop" value="-80" />
+        <int name="dcRight" value="52" />
+        <int name="dcBottom" value="0" />
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="npc_9062662" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="117" height="79">
+            <vector name="origin" x="65" y="79" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="eye">
+        <canvas name="0" width="117" height="79">
+            <vector name="origin" x="65" y="79" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="117" height="79">
+            <vector name="origin" x="65" y="79" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="117" height="79">
+            <vector name="origin" x="65" y="79" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="117" height="79">
+            <vector name="origin" x="65" y="79" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="117" height="79">
+            <vector name="origin" x="65" y="79" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="117" height="79">
+            <vector name="origin" x="65" y="79" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="117" height="79">
+            <vector name="origin" x="65" y="79" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="117" height="79">
+            <vector name="origin" x="65" y="79" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <imgdir name="502079">
+            <imgdir name="0">
+                <string name="key" value="floor" />
+                <string name="value" value="2" />
+            </imgdir>
+        </imgdir>
+        <imgdir name="stand">
+            <canvas name="0" width="109" height="77">
+                <vector name="origin" x="62" y="77" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+        <imgdir name="eye">
+            <canvas name="0" width="109" height="77">
+                <vector name="origin" x="62" y="77" />
+                <int name="z" value="0" />
+            </canvas>
+            <canvas name="1" width="109" height="77">
+                <vector name="origin" x="62" y="77" />
+                <int name="z" value="0" />
+            </canvas>
+            <canvas name="2" width="109" height="77">
+                <vector name="origin" x="62" y="77" />
+                <int name="z" value="0" />
+            </canvas>
+            <canvas name="3" width="109" height="77">
+                <vector name="origin" x="62" y="77" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+        <imgdir name="say">
+            <canvas name="0" width="109" height="77">
+                <vector name="origin" x="62" y="77" />
+                <int name="z" value="0" />
+            </canvas>
+            <canvas name="1" width="109" height="77">
+                <vector name="origin" x="62" y="77" />
+                <int name="z" value="0" />
+            </canvas>
+            <canvas name="2" width="109" height="77">
+                <vector name="origin" x="62" y="77" />
+                <int name="z" value="0" />
+            </canvas>
+            <canvas name="3" width="109" height="77">
+                <vector name="origin" x="62" y="77" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+</imgdir>

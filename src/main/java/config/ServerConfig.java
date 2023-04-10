@@ -311,4 +311,6 @@ public class ServerConfig {
 
     //Custom NPC overrides. List of NPC IDs.
     public Map<String, String> NPCS_SCRIPTABLE = new HashMap<>();
+    
+    public short MAX_SLOT_INCREASE;
 }

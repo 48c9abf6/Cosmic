@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="0273.img">
+    <imgdir name="02730000">
+        <imgdir name="info">
+            <canvas name="icon" width="30" height="30">
+                <vector name="origin" x="-2" y="30" />
+            </canvas>
+            <canvas name="iconRaw" width="27" height="27">
+                <vector name="origin" x="-3" y="30" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="3000" />
+            <string name="path" value="UI/UIWindow2.img/AddtionalCube_InGame1" />
+            <int name="cursor" value="74" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02730001">
+        <imgdir name="info">
+            <canvas name="icon" width="30" height="30">
+                <vector name="origin" x="-2" y="30" />
+            </canvas>
+            <canvas name="iconRaw" width="27" height="27">
+                <vector name="origin" x="-3" y="30" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <string name="path" value="UI/UIWindow2.img/AddtionalCube_InGame1" />
+            <int name="cursor" value="74" />
+            <int name="timeLimited" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+        <imgdir name="req">
+            <int name="0" value="1114307" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02730002">
+        <imgdir name="info">
+            <canvas name="icon" width="30" height="30">
+                <vector name="origin" x="-2" y="30" />
+            </canvas>
+            <canvas name="iconRaw" width="27" height="27">
+                <vector name="origin" x="-3" y="30" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="3000" />
+            <string name="path" value="UI/UIWindow2.img/AddtionalCube_InGame1" />
+            <int name="cursor" value="74" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02730004">
+        <imgdir name="info">
+            <canvas name="icon" width="30" height="30">
+                <vector name="origin" x="-2" y="30" />
+            </canvas>
+            <canvas name="iconRaw" width="27" height="27">
+                <vector name="origin" x="-3" y="30" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="3000" />
+            <string name="path" value="UI/UIWindow2.img/AddtionalCube_InGame1" />
+            <int name="cursor" value="74" />
+            <int name="timeLimited" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02730005">
+        <imgdir name="info">
+            <canvas name="icon" width="30" height="30">
+                <vector name="origin" x="-2" y="30" />
+            </canvas>
+            <canvas name="iconRaw" width="27" height="27">
+                <vector name="origin" x="-3" y="30" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="1" />
+            <string name="path" value="UI/UIWindow2.img/AddtionalCube_InGame1" />
+            <int name="cursor" value="74" />
+            <int name="timeLimited" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+        <imgdir name="req">
+            <int name="0" value="1114313" />
+            <int name="1" value="1114314" />
+            <int name="2" value="1114315" />
+            <int name="3" value="1114316" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02730006">
+        <imgdir name="info">
+            <canvas name="icon" width="30" height="32">
+                <vector name="origin" x="-2" y="32" />
+                <int name="z" value="0" />
+            </canvas>
+            <canvas name="iconRaw" width="29" height="30">
+                <vector name="origin" x="-3" y="32" />
+                <int name="z" value="0" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="3000" />
+            <string name="path" value="UI/UIWindow2.img/AddtionalCube_InGame1" />
+            <int name="cursor" value="74" />
+            <int name="timeLimited" value="1" />
+            <int name="accountSharable" value="1" />
+            <int name="karma" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="02730003">
+        <imgdir name="info">
+            <canvas name="icon" width="30" height="30">
+                <vector name="origin" x="-2" y="30" />
+            </canvas>
+            <canvas name="iconRaw" width="27" height="27">
+                <vector name="origin" x="-3" y="30" />
+            </canvas>
+            <int name="price" value="1" />
+            <int name="slotMax" value="3000" />
+            <string name="path" value="UI/UIWindow2.img/AddtionalCube_InGame1" />
+            <int name="cursor" value="74" />
+            <int name="tradeBlock" value="1" />
+            <int name="timeLimited" value="1" />
+        </imgdir>
+    </imgdir>
+</imgdir>

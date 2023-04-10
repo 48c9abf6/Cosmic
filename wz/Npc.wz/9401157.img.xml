@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9401157.img">
+    <imgdir name="info">
+        <int name="forceMove" value="1" />
+        <string name="link" value="9400922" />
+    </imgdir>
+</imgdir>

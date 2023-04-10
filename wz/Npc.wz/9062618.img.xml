@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9062618.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="npc_9062618" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="124" height="141">
+            <vector name="origin" x="61" y="127" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="1" width="133" height="141">
+            <vector name="origin" x="69" y="127" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="2" width="133" height="141">
+            <vector name="origin" x="70" y="127" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="3" width="132" height="141">
+            <vector name="origin" x="70" y="127" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="4" width="133" height="141">
+            <vector name="origin" x="70" y="127" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="5" width="124" height="141">
+            <vector name="origin" x="60" y="127" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+</imgdir>

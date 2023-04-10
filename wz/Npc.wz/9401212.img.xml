@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9401212.img">
+    <imgdir name="info">
+        <int name="hideName" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="272" height="145">
+            <vector name="origin" x="136" y="142" />
+            <vector name="lt" x="-136" y="-153" />
+            <vector name="rb" x="136" y="-6" />
+            <vector name="head" x="-1" y="-141" />
+        </canvas>
+        <canvas name="1" width="272" height="144">
+            <vector name="origin" x="136" y="144" />
+            <int name="z" value="0" />
+            <vector name="lt" x="-136" y="-153" />
+            <vector name="rb" x="136" y="-6" />
+            <vector name="head" x="-1" y="-141" />
+        </canvas>
+        <canvas name="2" width="272" height="139">
+            <vector name="origin" x="136" y="139" />
+            <int name="z" value="0" />
+            <vector name="lt" x="-136" y="-153" />
+            <vector name="rb" x="136" y="-6" />
+            <vector name="head" x="-1" y="-141" />
+        </canvas>
+        <canvas name="3" width="272" height="141">
+            <vector name="origin" x="136" y="141" />
+            <int name="z" value="0" />
+            <vector name="lt" x="-136" y="-153" />
+            <vector name="rb" x="136" y="-6" />
+            <vector name="head" x="-1" y="-141" />
+        </canvas>
+        <uol name="4" value="3" />
+        <uol name="5" value="2" />
+        <uol name="6" value="1" />
+        <uol name="7" value="0" />
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="272" height="145">
+            <vector name="origin" x="136" y="142" />
+            <vector name="lt" x="-136" y="-153" />
+            <vector name="rb" x="136" y="-6" />
+            <vector name="head" x="-1" y="-141" />
+        </canvas>
+        <canvas name="1" width="272" height="144">
+            <vector name="origin" x="136" y="144" />
+            <int name="z" value="0" />
+            <vector name="lt" x="-136" y="-153" />
+            <vector name="rb" x="136" y="-6" />
+            <vector name="head" x="-1" y="-141" />
+        </canvas>
+        <canvas name="2" width="272" height="139">
+            <vector name="origin" x="136" y="139" />
+            <int name="z" value="0" />
+            <vector name="lt" x="-136" y="-153" />
+            <vector name="rb" x="136" y="-6" />
+            <vector name="head" x="-1" y="-141" />
+        </canvas>
+        <canvas name="3" width="272" height="141">
+            <vector name="origin" x="136" y="141" />
+            <int name="z" value="0" />
+            <vector name="lt" x="-136" y="-153" />
+            <vector name="rb" x="136" y="-6" />
+            <vector name="head" x="-1" y="-141" />
+        </canvas>
+        <uol name="4" value="3" />
+        <uol name="5" value="2" />
+        <uol name="6" value="1" />
+        <uol name="7" value="0" />
+    </imgdir>
+    <imgdir name="disapear">
+        <canvas name="0" width="272" height="144">
+            <vector name="origin" x="136" y="144" />
+            <vector name="head" x="12" y="-48" />
+        </canvas>
+        <canvas name="1" width="272" height="139">
+            <vector name="origin" x="136" y="142" />
+            <vector name="head" x="12" y="-48" />
+        </canvas>
+        <canvas name="2" width="272" height="141">
+            <vector name="origin" x="136" y="139" />
+            <vector name="head" x="12" y="-48" />
+        </canvas>
+        <canvas name="3" width="272" height="145">
+            <vector name="origin" x="136" y="141" />
+            <vector name="head" x="12" y="-48" />
+        </canvas>
+        <canvas name="4" width="272" height="144">
+            <vector name="origin" x="136" y="141" />
+            <vector name="head" x="12" y="-48" />
+        </canvas>
+        <canvas name="5" width="272" height="139">
+            <vector name="origin" x="136" y="139" />
+            <vector name="head" x="12" y="-48" />
+        </canvas>
+        <canvas name="6" width="272" height="140">
+            <vector name="origin" x="136" y="139" />
+            <vector name="head" x="12" y="-48" />
+        </canvas>
+        <canvas name="7" width="150" height="148">
+            <vector name="origin" x="77" y="209" />
+            <vector name="head" x="12" y="-48" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+</imgdir>

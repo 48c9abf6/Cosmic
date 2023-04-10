@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9133163.img">
+    <imgdir name="info">
+        <string name="info" value="크로우" />
+        <int name="hideName" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="72" height="84">
+            <vector name="origin" x="41" y="77" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+    </imgdir>
+    <imgdir name="release">
+        <canvas name="0" width="72" height="84">
+            <vector name="origin" x="41" y="77" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="1" width="84" height="85">
+            <vector name="origin" x="45" y="77" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="2" width="98" height="86">
+            <vector name="origin" x="52" y="77" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="3" width="90" height="84">
+            <vector name="origin" x="50" y="77" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="4" width="90" height="84">
+            <vector name="origin" x="50" y="77" />
+            <int name="z" value="0" />
+            <int name="delay" value="210" />
+        </canvas>
+        <canvas name="5" width="63" height="78">
+            <vector name="origin" x="25" y="77" />
+            <int name="z" value="0" />
+            <int name="delay" value="2100000" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+</imgdir>

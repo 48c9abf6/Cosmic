@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9120287.img">
+    <imgdir name="info">
+        <int name="shop" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="77" height="100">
+            <vector name="origin" x="29" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="77" height="100">
+            <vector name="origin" x="29" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="77" height="102">
+            <vector name="origin" x="29" y="102" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="77" height="106">
+            <vector name="origin" x="29" y="106" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="77" height="110">
+            <vector name="origin" x="29" y="110" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="77" height="110">
+            <vector name="origin" x="29" y="110" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="77" height="110">
+            <vector name="origin" x="29" y="110" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="77" height="100">
+            <vector name="origin" x="29" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="8" width="77" height="100">
+            <vector name="origin" x="29" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="eye">
+        <canvas name="0" width="77" height="100">
+            <vector name="origin" x="29" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="77" height="100">
+            <vector name="origin" x="29" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="77" height="100">
+            <vector name="origin" x="29" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="77" height="100">
+            <vector name="origin" x="29" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+</imgdir>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9100118.img">
+    <imgdir name="info">
+        <int name="dcLeft" value="-35" />
+        <int name="dcTop" value="-87" />
+        <int name="dcRight" value="35" />
+        <int name="dcBottom" value="0" />
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="maponEquip" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="73" height="89">
+            <vector name="origin" x="36" y="89" />
+            <int name="delay" value="900" />
+        </canvas>
+        <canvas name="1" width="73" height="89">
+            <vector name="origin" x="36" y="89" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="73" height="89">
+            <vector name="origin" x="36" y="89" />
+            <int name="delay" value="150" />
+        </canvas>
+        <uol name="3" value="1" />
+    </imgdir>
+</imgdir>

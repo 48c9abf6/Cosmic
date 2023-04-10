@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9135029.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="npc_9135029" />
+            </imgdir>
+        </imgdir>
+        <int name="dcLeft" value="-36" />
+        <int name="dcBottom" value="0" />
+        <int name="dcRight" value="36" />
+        <int name="dcTop" value="-50" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="63" height="58">
+            <vector name="origin" x="27" y="58" />
+            <vector name="lt" x="-27" y="-58" />
+            <vector name="rb" x="36" y="0" />
+            <vector name="head" x="2" y="-54" />
+            <int name="delay" value="180" />
+        </canvas>
+        <canvas name="1" width="63" height="55">
+            <vector name="origin" x="27" y="55" />
+            <vector name="lt" x="-27" y="-55" />
+            <vector name="rb" x="36" y="0" />
+            <vector name="head" x="2" y="-51" />
+            <int name="delay" value="180" />
+        </canvas>
+    </imgdir>
+</imgdir>

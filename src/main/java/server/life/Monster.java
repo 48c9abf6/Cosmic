@@ -718,6 +718,14 @@ public class Monster extends AbstractLoadedLife {
             if (expBonus != null) {     // exp increase player buff found thanks to HighKey21
                 personalExp += expBonus;
             }
+            
+            Integer expBuff = attacker.getBuffedValue(BuffStat.EXPRATE);
+            if (expBuff != null) {
+                Float expBuffs = (float)(expBuff / 100.0);
+                //attacker.dropMessage(5, "Exp Buff : " + expBuffs + " | Exp " + personalExp);
+                personalExp = personalExp * expBuffs;
+                //attacker.dropMessage(5, "Result : " + personalExp);
+            }
 
             int _personalExp = expValueToInteger(personalExp); // assuming no negative xp here
 

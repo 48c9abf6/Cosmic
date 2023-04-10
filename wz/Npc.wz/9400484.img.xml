@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9400484.img">
+    <imgdir name="info">
+        <int name="hide" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="131" height="107">
+            <vector name="origin" x="55" y="105" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="1" width="131" height="107">
+            <vector name="origin" x="55" y="105" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="2" width="131" height="107">
+            <vector name="origin" x="55" y="105" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="3" width="131" height="107">
+            <vector name="origin" x="55" y="105" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="4" width="131" height="107">
+            <vector name="origin" x="55" y="105" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="5" width="131" height="107">
+            <vector name="origin" x="55" y="105" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="6" width="131" height="107">
+            <vector name="origin" x="55" y="105" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="7" width="131" height="107">
+            <vector name="origin" x="55" y="105" />
+            <int name="z" value="0" />
+            <int name="delay" value="3000" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <imgdir name="stand">
+            <uol name="0" value="../../stand/0" />
+            <uol name="1" value="../../stand/1" />
+            <uol name="2" value="../../stand/2" />
+            <uol name="3" value="../../stand/3" />
+            <uol name="4" value="../../stand/4" />
+            <uol name="5" value="../../stand/5" />
+            <uol name="6" value="../../stand/6" />
+            <uol name="7" value="../../stand/7" />
+        </imgdir>
+        <imgdir name="63661">
+            <string name="value" value="off" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition2">
+        <imgdir name="stand">
+            <canvas name="0" width="221" height="247">
+                <vector name="origin" x="112" y="245" />
+                <int name="z" value="0" />
+                <int name="delay" value="90" />
+            </canvas>
+            <canvas name="1" width="221" height="247">
+                <vector name="origin" x="112" y="245" />
+                <int name="z" value="0" />
+                <int name="delay" value="90" />
+            </canvas>
+            <canvas name="2" width="221" height="247">
+                <vector name="origin" x="112" y="245" />
+                <int name="z" value="0" />
+                <int name="delay" value="90" />
+            </canvas>
+            <canvas name="3" width="221" height="247">
+                <vector name="origin" x="112" y="245" />
+                <int name="z" value="0" />
+                <int name="delay" value="90" />
+            </canvas>
+            <canvas name="4" width="221" height="247">
+                <vector name="origin" x="112" y="245" />
+                <int name="z" value="0" />
+                <int name="delay" value="90" />
+            </canvas>
+            <canvas name="5" width="221" height="247">
+                <vector name="origin" x="112" y="245" />
+                <int name="z" value="0" />
+                <int name="delay" value="90" />
+            </canvas>
+            <canvas name="6" width="221" height="247">
+                <vector name="origin" x="112" y="245" />
+                <int name="z" value="0" />
+                <int name="delay" value="90" />
+            </canvas>
+            <canvas name="7" width="221" height="247">
+                <vector name="origin" x="112" y="245" />
+                <int name="z" value="0" />
+                <int name="delay" value="90" />
+            </canvas>
+        </imgdir>
+        <imgdir name="63661">
+            <string name="value" value="on" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition3">
+        <imgdir name="stand">
+            <uol name="0" value="../../stand/0" />
+            <uol name="1" value="../../stand/1" />
+            <uol name="2" value="../../stand/2" />
+            <uol name="3" value="../../stand/3" />
+            <uol name="4" value="../../stand/4" />
+            <uol name="5" value="../../stand/5" />
+            <uol name="6" value="../../stand/6" />
+            <uol name="7" value="../../stand/7" />
+        </imgdir>
+        <imgdir name="63661">
+            <string name="value" value="hide" />
+        </imgdir>
+        <int name="hide" value="1" />
+    </imgdir>
+</imgdir>

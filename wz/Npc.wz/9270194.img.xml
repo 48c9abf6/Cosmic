@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9270194.img">
+    <imgdir name="info">
+        <imgdir name="speak">
+            <string name="0" value="n0" />
+            <string name="1" value="n1" />
+        </imgdir>
+        <int name="hide" value="1" />
+        <int name="hideName" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="61" height="55">
+            <vector name="origin" x="23" y="55" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="63" height="53">
+            <vector name="origin" x="24" y="53" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="65" height="52">
+            <vector name="origin" x="25" y="52" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="3" width="64" height="53">
+            <vector name="origin" x="25" y="53" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="4" width="63" height="55">
+            <vector name="origin" x="25" y="55" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="5" width="61" height="57">
+            <vector name="origin" x="24" y="57" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <uol name="stand" value="../stand" />
+        <imgdir name="66241">
+            <imgdir name="0">
+                <string name="key" value="hide" />
+                <string name="value" value="off" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

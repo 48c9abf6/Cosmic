@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9136003.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="Defence_End" />
+            </imgdir>
+        </imgdir>
+        <imgdir name="reg">
+            <string name="Coupon" value="" />
+            <string name="Date" value="" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="65" height="80">
+            <vector name="origin" x="34" y="176" />
+            <string name="delay" value="1000" />
+        </canvas>
+    </imgdir>
+</imgdir>

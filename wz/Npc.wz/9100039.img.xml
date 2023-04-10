@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9100039.img">
+    <imgdir name="info">
+        <int name="componentNPC" value="1" />
+        <imgdir name="component">
+            <int name="skin" value="0" />
+            <int name="face" value="20174" />
+            <int name="hair" value="36190" />
+            <int name="clothes" value="1052495" />
+            <int name="cap" value="1004684" />
+            <int name="cape" value="1102442" />
+            <int name="weapon" value="1212052" />
+            <int name="shoes" value="1072700" />
+        </imgdir>
+        <canvas name="default" width="96" height="87">
+            <vector name="origin" x="48" y="72" />
+            <int name="delay" value="5000" />
+            <int name="z" value="0" />
+        </canvas>
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="npc_9100039" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="44" height="75">
+            <vector name="origin" x="25" y="75" />
+            <int name="delay" value="5000" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <imgdir name="stand">
+            <canvas name="0" width="44" height="75">
+                <vector name="origin" x="25" y="75" />
+                <int name="delay" value="5000" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+        <int name="hide" value="1" />
+        <imgdir name="501022">
+            <imgdir name="0">
+                <string name="key" value="n39" />
+                <string name="value" value="1" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

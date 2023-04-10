@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9400943.img">
+    <imgdir name="info">
+        <int name="dcRight" value="100" />
+        <int name="dcLeft" value="-40" />
+        <int name="dcTop" value="-150" />
+        <int name="dcBottom" value="0" />
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="NPC_mirandaShop" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="220" height="154">
+            <vector name="origin" x="110" y="152" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <imgdir name="500763">
+            <imgdir name="0">
+                <string name="key" value="end" />
+                <string name="value" value="1" />
+            </imgdir>
+        </imgdir>
+        <int name="hide" value="1" />
+        <uol name="stand" value="../stand" />
+    </imgdir>
+</imgdir>

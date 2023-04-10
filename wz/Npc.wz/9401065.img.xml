@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9401065.img">
+    <imgdir name="info">
+        <int name="componentNPC" value="1" />
+        <imgdir name="component">
+            <int name="skin" value="0" />
+            <int name="face" value="21074" />
+            <int name="hair" value="31291" />
+            <int name="clothes" value="1052845" />
+            <int name="shoes" value="1070107" />
+        </imgdir>
+        <int name="forceMove" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="47" height="66">
+            <vector name="origin" x="24" y="66" />
+            <int name="z" value="0" />
+            <int name="delay" value="900" />
+        </canvas>
+    </imgdir>
+    <imgdir name="move">
+        <canvas name="0" width="47" height="66">
+            <vector name="origin" x="24" y="66" />
+            <int name="z" value="0" />
+            <int name="delay" value="900" />
+        </canvas>
+    </imgdir>
+</imgdir>

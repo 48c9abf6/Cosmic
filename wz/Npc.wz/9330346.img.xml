@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9330346.img">
+    <imgdir name="info">
+        <int name="hide" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="69" height="79">
+            <vector name="origin" x="44" y="79" />
+            <int name="z" value="0" />
+            <int name="delay" value="300" />
+        </canvas>
+        <canvas name="1" width="69" height="69">
+            <vector name="origin" x="45" y="69" />
+            <int name="z" value="0" />
+            <int name="delay" value="300" />
+        </canvas>
+        <canvas name="2" width="70" height="75">
+            <vector name="origin" x="45" y="75" />
+            <int name="z" value="0" />
+            <int name="delay" value="300" />
+        </canvas>
+        <canvas name="3" width="68" height="76">
+            <vector name="origin" x="44" y="76" />
+            <int name="z" value="0" />
+            <int name="delay" value="300" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <imgdir name="stand">
+            <canvas name="0" width="69" height="79">
+                <vector name="origin" x="44" y="79" />
+                <int name="z" value="0" />
+                <int name="delay" value="300" />
+            </canvas>
+            <canvas name="3" width="68" height="76">
+                <vector name="origin" x="44" y="76" />
+                <int name="z" value="0" />
+            </canvas>
+            <canvas name="2" width="70" height="75">
+                <vector name="origin" x="45" y="75" />
+                <int name="z" value="0" />
+            </canvas>
+            <canvas name="1" width="69" height="69">
+                <vector name="origin" x="45" y="69" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+        <int name="52892" value="0" />
+        <int name="hide" value="0" />
+    </imgdir>
+</imgdir>

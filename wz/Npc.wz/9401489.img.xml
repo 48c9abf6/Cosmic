@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9401489.img">
+    <imgdir name="info">
+        <int name="shop" value="1" />
+        <int name="scriptNpcShop" value="1" />
+        <int name="dcLeft" value="-55" />
+        <int name="dcRight" value="48" />
+        <int name="dcTop" value="-110" />
+        <int name="dcBottom" value="0" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="59" height="84">
+            <vector name="origin" x="22" y="84" />
+            <int name="delay" value="1000" />
+        </canvas>
+        <canvas name="1" width="59" height="84">
+            <vector name="origin" x="22" y="84" />
+            <int name="delay" value="110" />
+        </canvas>
+        <canvas name="2" width="59" height="84">
+            <vector name="origin" x="22" y="84" />
+            <int name="delay" value="110" />
+        </canvas>
+        <canvas name="3" width="59" height="84">
+            <vector name="origin" x="22" y="84" />
+            <int name="delay" value="110" />
+        </canvas>
+        <canvas name="4" width="59" height="84">
+            <vector name="origin" x="22" y="84" />
+            <int name="delay" value="110" />
+        </canvas>
+        <canvas name="5" width="59" height="84">
+            <vector name="origin" x="22" y="84" />
+            <int name="delay" value="110" />
+        </canvas>
+        <canvas name="6" width="59" height="84">
+            <vector name="origin" x="22" y="84" />
+            <int name="delay" value="110" />
+        </canvas>
+    </imgdir>
+</imgdir>

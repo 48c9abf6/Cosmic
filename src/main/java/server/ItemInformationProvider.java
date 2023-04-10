@@ -192,25 +192,25 @@ public class ItemInformationProvider {
             theData = cashStringData;
         } else if (itemId >= 2000000 && itemId < 3000000) {
             theData = consumeStringData;
-        } else if ((itemId >= 1010000 && itemId < 1040000) || (itemId >= 1122000 && itemId < 1123000) || (itemId >= 1132000 && itemId < 1133000) || (itemId >= 1142000 && itemId < 1143000)) {
+        } else if ((itemId >= 1010000 && itemId < 1040000) || (itemId >= 1120000 && itemId < 1130000) || (itemId >= 1130000 && itemId < 1140000) || (itemId >= 1140000 && itemId < 1150000)) {
             theData = eqpStringData;
             cat = "Eqp/Accessory";
         } else if (itemId >= 1000000 && itemId < 1010000) {
             theData = eqpStringData;
             cat = "Eqp/Cap";
-        } else if (itemId >= 1102000 && itemId < 1103000) {
+        } else if (itemId >= 1100000 && itemId < 1110000) {
             theData = eqpStringData;
             cat = "Eqp/Cape";
         } else if (itemId >= 1040000 && itemId < 1050000) {
             theData = eqpStringData;
             cat = "Eqp/Coat";
-        } else if (itemId >= 20000 && itemId < 22000) {
+        } else if (itemId >= 20000 && itemId < 30000 || itemId >= 50000 && itemId < 60000) {
             theData = eqpStringData;
             cat = "Eqp/Face";
         } else if (itemId >= 1080000 && itemId < 1090000) {
             theData = eqpStringData;
             cat = "Eqp/Glove";
-        } else if (itemId >= 30000 && itemId < 35000) {
+        } else if (itemId >= 30000 && itemId < 50000) {
             theData = eqpStringData;
             cat = "Eqp/Hair";
         } else if (itemId >= 1050000 && itemId < 1060000) {
@@ -336,11 +336,21 @@ public class ItemInformationProvider {
 
         return ret;
     }
+    
+    private static short getExtraSlotMaxFromServer(int itemId) {
+        short ret = 0;
 
+        if (!(ItemConstants.isThrowingStar(itemId) || ItemConstants.isBullet(itemId))) {
+            ret += YamlConfig.config.server.MAX_SLOT_INCREASE;
+        }
+
+        return ret;
+    }
+    
     public short getSlotMax(Client c, int itemId) {
         Short slotMax = slotMaxCache.get(itemId);
         if (slotMax != null) {
-            return (short) (slotMax + getExtraSlotMaxFromPlayer(c, itemId));
+            return (short) (slotMax + getExtraSlotMaxFromPlayer(c, itemId) + getExtraSlotMaxFromServer(itemId));
         }
         short ret = 0;
         Data item = getItemData(itemId);
@@ -358,7 +368,7 @@ public class ItemInformationProvider {
         }
 
         slotMaxCache.put(itemId, ret);
-        return (short) (ret + getExtraSlotMaxFromPlayer(c, itemId));
+        return (short) (ret + getExtraSlotMaxFromPlayer(c, itemId) + getExtraSlotMaxFromServer(itemId));
     }
 
     public int getMeso(int itemId) {

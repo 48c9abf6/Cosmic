@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9201421.img">
+    <imgdir name="info" />
+    <imgdir name="stand">
+        <canvas name="0" width="136" height="153">
+            <vector name="origin" x="24" y="61" />
+            <vector name="lt" x="-28" y="-60" />
+            <vector name="rb" x="47" y="0" />
+            <vector name="head" x="-2" y="-37" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="49" height="60">
+            <vector name="origin" x="24" y="60" />
+            <vector name="lt" x="-28" y="-60" />
+            <vector name="rb" x="47" y="0" />
+            <vector name="head" x="-2" y="-36" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="49" height="62">
+            <vector name="origin" x="24" y="63" />
+            <vector name="lt" x="-28" y="-60" />
+            <vector name="rb" x="47" y="0" />
+            <vector name="head" x="-3" y="-38" />
+            <int name="delay" value="150" />
+        </canvas>
+    </imgdir>
+</imgdir>

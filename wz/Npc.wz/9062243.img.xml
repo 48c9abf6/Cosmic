@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9062243.img">
+    <imgdir name="info" />
+    <imgdir name="stand">
+        <canvas name="0" width="51" height="77">
+            <vector name="origin" x="23" y="77" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="special">
+        <int name="special" value="1" />
+        <canvas name="0" width="51" height="69">
+            <vector name="origin" x="23" y="69" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="51" height="68">
+            <vector name="origin" x="23" y="68" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="51" height="69">
+            <vector name="origin" x="23" y="69" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="3" width="51" height="68">
+            <vector name="origin" x="23" y="68" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="4" width="51" height="69">
+            <vector name="origin" x="23" y="69" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+    </imgdir>
+    <imgdir name="condition2">
+        <imgdir name="100433">
+            <imgdir name="0">
+                <string name="key" value="43" />
+                <string name="value" value="0" />
+            </imgdir>
+        </imgdir>
+        <int name="hide" value="1" />
+        <uol name="stand" value="../stand" />
+        <uol name="special" value="../special" />
+    </imgdir>
+    <imgdir name="condition3">
+        <imgdir name="100433">
+            <imgdir name="0">
+                <string name="key" value="43" />
+                <string name="value" value="2" />
+            </imgdir>
+        </imgdir>
+        <imgdir name="stand">
+            <canvas name="0" width="51" height="77">
+                <vector name="origin" x="23" y="77" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+        <imgdir name="special">
+            <int name="special" value="1" />
+            <canvas name="0" width="51" height="69">
+                <vector name="origin" x="23" y="69" />
+                <int name="z" value="0" />
+                <int name="delay" value="150" />
+            </canvas>
+            <canvas name="1" width="51" height="68">
+                <vector name="origin" x="23" y="68" />
+                <int name="z" value="0" />
+                <int name="delay" value="150" />
+            </canvas>
+            <canvas name="2" width="51" height="69">
+                <vector name="origin" x="23" y="69" />
+                <int name="z" value="0" />
+                <int name="delay" value="150" />
+            </canvas>
+            <canvas name="3" width="51" height="68">
+                <vector name="origin" x="23" y="68" />
+                <int name="z" value="0" />
+                <int name="delay" value="150" />
+            </canvas>
+            <canvas name="4" width="51" height="69">
+                <vector name="origin" x="23" y="69" />
+                <int name="z" value="0" />
+                <int name="delay" value="150" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition4">
+        <imgdir name="100433">
+            <imgdir name="0">
+                <string name="key" value="43" />
+                <string name="value" value="1" />
+            </imgdir>
+        </imgdir>
+        <uol name="special" value="../special" />
+        <imgdir name="stand">
+            <canvas name="0" width="51" height="83">
+                <vector name="origin" x="23" y="83" />
+                <int name="z" value="0" />
+            </canvas>
+        </imgdir>
+    </imgdir>
+</imgdir>

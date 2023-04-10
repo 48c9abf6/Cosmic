@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="01143253.img">
+    <imgdir name="info">
+        <canvas name="icon" width="22" height="29">
+            <vector name="origin" x="-4" y="31" />
+        </canvas>
+        <canvas name="iconRaw" width="22" height="29">
+            <vector name="origin" x="-4" y="31" />
+        </canvas>
+        <string name="islot" value="Me" />
+        <string name="vslot" value="Me" />
+        <int name="reqJob" value="0" />
+        <int name="reqLevel" value="33" />
+        <int name="bdR" value="0" />
+        <int name="imdR" value="0" />
+        <int name="tuc" value="0" />
+        <int name="price" value="0" />
+        <int name="notSale" value="1" />
+        <int name="accountSharable" value="1" />
+        <int name="cash" value="0" />
+        <int name="medalTag" value="1009" />
+    </imgdir>
+</imgdir>

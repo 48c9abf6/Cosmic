@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9120253.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="Lotte_pepe" />
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="44" height="64">
+            <vector name="origin" x="-1" y="63" />
+            <int name="z" value="0" />
+            <int name="delay" value="3000" />
+        </canvas>
+    </imgdir>
+</imgdir>

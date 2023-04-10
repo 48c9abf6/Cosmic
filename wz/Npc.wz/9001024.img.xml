@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9001024.img">
+    <imgdir name="info">
+        <int name="forcedZPage" value="5" />
+        <int name="forcedZMass" value="15" />
+    </imgdir>
+    <imgdir name="eye">
+        <canvas name="0" width="77" height="97">
+            <vector name="origin" x="44" y="97" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="77" height="97">
+            <vector name="origin" x="44" y="97" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="77" height="97">
+            <vector name="origin" x="44" y="97" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="77" height="97">
+            <vector name="origin" x="44" y="97" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="77" height="97">
+            <vector name="origin" x="44" y="97" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="77" height="97">
+            <vector name="origin" x="44" y="97" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="77" height="97">
+            <vector name="origin" x="44" y="97" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="77" height="97">
+            <vector name="origin" x="44" y="97" />
+            <int name="z" value="0" />
+            <int name="delay" value="30" />
+        </canvas>
+    </imgdir>
+    <imgdir name="speak">
+        <canvas name="0" width="77" height="97">
+            <vector name="origin" x="44" y="97" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="77" height="96">
+            <vector name="origin" x="44" y="96" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="77" height="97">
+            <vector name="origin" x="44" y="97" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="77" height="96">
+            <vector name="origin" x="44" y="96" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="roar">
+        <canvas name="0" width="77" height="97">
+            <vector name="origin" x="44" y="97" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="77" height="97">
+            <vector name="origin" x="44" y="97" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="77" height="97">
+            <vector name="origin" x="44" y="97" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="77" height="96">
+            <vector name="origin" x="44" y="96" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="77" height="96">
+            <vector name="origin" x="44" y="96" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="77" height="96">
+            <vector name="origin" x="44" y="96" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="77" height="96">
+            <vector name="origin" x="44" y="96" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="77" height="96">
+            <vector name="origin" x="44" y="96" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+</imgdir>

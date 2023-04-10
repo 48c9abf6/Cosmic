@@ -721,7 +721,7 @@ public class MapleMap {
         if (stati != null) {
             chRate *= (stati.getStati().get(MonsterStatus.SHOWDOWN).doubleValue() / 100.0 + 1.0);
         }
-
+        
         if (useBaseRate) {
             chRate = 1;
         }
@@ -2587,6 +2587,10 @@ public class MapleMap {
 
         chr.receivePartyMemberHP();
         announcePlayerDiseases(chr.getClient());
+        
+        if (mapid == 910000000) {
+            chr.startFreeMarketBuff();
+        }
     }
 
     private static void announcePlayerDiseases(final Client c) {
@@ -2702,6 +2706,10 @@ public class MapleMap {
         } else {
             broadcastGMMessage(PacketCreator.removePlayerFromMap(chr.getId()));
         }
+        
+        if (mapid == 910000000) {
+            chr.cancelFreeMarketBuff();
+        }        
 
         chr.leaveMap();
 

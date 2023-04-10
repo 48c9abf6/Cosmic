@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9120331.img">
+    <imgdir name="info">
+        <int name="hideName" value="1" />
+        <canvas name="default" width="1" height="1">
+            <vector name="origin" x="0" y="0" />
+            <vector name="lt" x="-38" y="-94" />
+            <vector name="rb" x="53" y="5" />
+            <vector name="head" x="-11" y="-87" />
+            <int name="delay" value="200" />
+        </canvas>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="1" height="1">
+            <vector name="origin" x="0" y="0" />
+            <vector name="lt" x="-38" y="-94" />
+            <vector name="rb" x="53" y="5" />
+            <vector name="head" x="-11" y="-87" />
+            <int name="delay" value="200" />
+        </canvas>
+    </imgdir>
+    <imgdir name="nano">
+        <canvas name="0" width="84" height="100">
+            <vector name="origin" x="43" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="97" height="103">
+            <vector name="origin" x="43" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="101" height="106">
+            <vector name="origin" x="43" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="90" height="105">
+            <vector name="origin" x="43" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="103" height="99">
+            <vector name="origin" x="43" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="94" height="99">
+            <vector name="origin" x="43" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="99" height="96">
+            <vector name="origin" x="43" y="100" />
+            <int name="z" value="0" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+</imgdir>

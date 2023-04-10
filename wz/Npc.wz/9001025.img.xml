@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9001025.img">
+    <imgdir name="info" />
+    <imgdir name="eye">
+        <canvas name="0" width="81" height="90">
+            <vector name="origin" x="36" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="81" height="90">
+            <vector name="origin" x="36" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="81" height="90">
+            <vector name="origin" x="36" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="81" height="90">
+            <vector name="origin" x="36" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="81" height="90">
+            <vector name="origin" x="36" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="speak">
+        <canvas name="0" width="81" height="90">
+            <vector name="origin" x="36" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="81" height="90">
+            <vector name="origin" x="36" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <uol name="2" value="0" />
+        <uol name="3" value="1" />
+        <uol name="4" value="0" />
+        <uol name="5" value="1" />
+        <uol name="6" value="0" />
+        <uol name="7" value="1" />
+    </imgdir>
+    <imgdir name="roar">
+        <canvas name="0" width="81" height="89">
+            <vector name="origin" x="36" y="89" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="81" height="90">
+            <vector name="origin" x="36" y="90" />
+            <int name="z" value="0" />
+        </canvas>
+        <uol name="2" value="0" />
+        <uol name="3" value="1" />
+        <uol name="4" value="0" />
+        <uol name="5" value="1" />
+    </imgdir>
+</imgdir>

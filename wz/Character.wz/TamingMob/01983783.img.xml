@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="01983783.img">
+    <imgdir name="info">
+        <canvas name="icon" width="34" height="30">
+            <vector name="origin" x="1" y="30" />
+        </canvas>
+        <canvas name="iconRaw" width="34" height="29">
+            <vector name="origin" x="1" y="30" />
+        </canvas>
+    </imgdir>
+    <imgdir name="sit">
+        <imgdir name="0">
+            <string name="forceCharacterAction" value="prone" />
+            <int name="forceCharacterActionFrameIndex" value="0" />
+            <int name="delay" value="150" />
+            <canvas name="0" width="67" height="48">
+                <vector name="origin" x="67" y="55" />
+                <string name="z" value="tamingMobFront" />
+                <vector name="lt" x="-65" y="-79" />
+                <vector name="rb" x="14" y="-3" />
+                <imgdir name="map">
+                    <vector name="navel" x="-23" y="-44" />
+                </imgdir>
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="characterAction">
+        <string name="sit" value="prone" />
+    </imgdir>
+</imgdir>

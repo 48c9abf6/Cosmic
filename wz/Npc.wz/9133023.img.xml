@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9133023.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="CrossBrigade2_Expedition_accept" />
+            </imgdir>
+        </imgdir>
+        <int name="hide" value="1" />
+        <imgdir name="reg">
+            <string name="in00" value="" />
+            <string name="in01" value="" />
+            <string name="in02" value="" />
+            <string name="in03" value="" />
+            <string name="in04" value="" />
+            <string name="in05" value="" />
+            <string name="in06" value="" />
+            <string name="in07" value="" />
+            <string name="in08" value="" />
+            <string name="in09" value="" />
+            <string name="in10" value="" />
+            <string name="in11" value="" />
+            <string name="in12" value="" />
+            <string name="in13" value="" />
+            <string name="noin00" value="" />
+            <string name="noin01" value="" />
+            <string name="noin02" value="" />
+            <string name="noin03" value="" />
+            <string name="noin04" value="" />
+            <string name="noin05" value="" />
+            <string name="noin06" value="" />
+            <string name="noin07" value="" />
+            <string name="noin08" value="" />
+            <string name="noin09" value="" />
+            <string name="master" value="" />
+            <string name="list" value="00000000000000000000000000000" />
+            <string name="nolist" value="0000000000" />
+            <string name="lastmaster" value="" />
+            <int name="exID" value="0" />
+            <string name="Ein00" value="" />
+            <string name="Ein01" value="" />
+            <string name="Ein02" value="" />
+            <string name="Ein03" value="" />
+            <string name="Ein04" value="" />
+            <string name="Enoin00" value="" />
+            <string name="Enoin01" value="" />
+            <string name="Enoin02" value="" />
+            <string name="Emaster" value="" />
+            <string name="Elist" value="00000000000000000000000000000" />
+            <string name="Enolist" value="0000000000" />
+            <string name="Elastmaster" value="" />
+            <int name="EexID" value="0" />
+        </imgdir>
+        <string name="link" value="9133019" />
+    </imgdir>
+</imgdir>

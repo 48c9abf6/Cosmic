@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9133111.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="npc_9133111" />
+            </imgdir>
+        </imgdir>
+        <imgdir name="illustration2">
+            <canvas name="base" width="284" height="259">
+                <vector name="origin" x="60" y="129" />
+                <int name="z" value="0" />
+            </canvas>
+            <imgdir name="face">
+                <canvas name="0" width="284" height="259">
+                    <vector name="origin" x="60" y="129" />
+                    <int name="z" value="0" />
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <int name="forceMove" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="90" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="92" height="93">
+            <vector name="origin" x="37" y="93" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="91" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="3" width="92" height="93">
+            <vector name="origin" x="37" y="93" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="4" width="93" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="41" width="92" height="93">
+            <vector name="origin" x="37" y="93" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="42" width="91" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="43" width="92" height="93">
+            <vector name="origin" x="37" y="93" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="44" width="93" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="5" width="90" height="93">
+            <vector name="origin" x="37" y="93" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="6" width="92" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="180" />
+        </canvas>
+        <canvas name="7" width="91" height="93">
+            <vector name="origin" x="37" y="93" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="8" width="92" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="9" width="93" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="90" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="92" height="93">
+            <vector name="origin" x="37" y="93" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="91" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="3" width="92" height="93">
+            <vector name="origin" x="37" y="93" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="4" width="93" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="5" width="90" height="93">
+            <vector name="origin" x="37" y="93" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="6" width="92" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="7" width="91" height="93">
+            <vector name="origin" x="37" y="93" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="8" width="92" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="9" width="93" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+    </imgdir>
+    <imgdir name="walk_fast">
+        <canvas name="0" width="90" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="1" width="92" height="94">
+            <vector name="origin" x="37" y="94" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="2" width="91" height="94">
+            <vector name="origin" x="37" y="94" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="3" width="92" height="94">
+            <vector name="origin" x="37" y="94" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="4" width="93" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="5" width="90" height="94">
+            <vector name="origin" x="37" y="94" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="6" width="92" height="94">
+            <vector name="origin" x="37" y="94" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="7" width="91" height="94">
+            <vector name="origin" x="37" y="94" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="8" width="92" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <canvas name="9" width="93" height="91">
+            <vector name="origin" x="37" y="91" />
+            <int name="z" value="0" />
+            <int name="delay" value="90" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+    <imgdir name="move">
+        <canvas name="0" width="90" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="92" height="94">
+            <vector name="origin" x="37" y="94" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="91" height="94">
+            <vector name="origin" x="37" y="94" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="3" width="92" height="94">
+            <vector name="origin" x="37" y="94" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="4" width="93" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="5" width="90" height="94">
+            <vector name="origin" x="37" y="94" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="6" width="92" height="94">
+            <vector name="origin" x="37" y="94" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="7" width="91" height="94">
+            <vector name="origin" x="37" y="94" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="8" width="92" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="9" width="93" height="91">
+            <vector name="origin" x="37" y="91" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+    </imgdir>
+    <imgdir name="die">
+        <canvas name="0" width="90" height="92">
+            <vector name="origin" x="37" y="92" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="88" height="103">
+            <vector name="origin" x="33" y="103" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="88" height="89">
+            <vector name="origin" x="32" y="89" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="3" width="88" height="74">
+            <vector name="origin" x="33" y="74" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="4" width="89" height="74">
+            <vector name="origin" x="33" y="74" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="5" width="86" height="71">
+            <vector name="origin" x="33" y="71" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="6" width="84" height="70">
+            <vector name="origin" x="33" y="70" />
+            <int name="z" value="0" />
+            <int name="delay" value="3000000" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+</imgdir>

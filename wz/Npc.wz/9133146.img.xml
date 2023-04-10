@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9133146.img">
+    <imgdir name="info">
+        <string name="info" value="세라나(dbfud)" />
+        <int name="forceMove" value="1" />
+        <int name="hideName" value="1" />
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="69" height="87">
+            <vector name="origin" x="38" y="97" />
+            <int name="z" value="0" />
+            <int name="delay" value="180" />
+        </canvas>
+        <canvas name="1" width="69" height="87">
+            <vector name="origin" x="38" y="98" />
+            <int name="z" value="0" />
+            <int name="delay" value="180" />
+        </canvas>
+        <canvas name="2" width="69" height="86">
+            <vector name="origin" x="39" y="98" />
+            <int name="z" value="0" />
+            <int name="delay" value="180" />
+        </canvas>
+        <canvas name="3" width="68" height="86">
+            <vector name="origin" x="38" y="97" />
+            <int name="z" value="0" />
+            <int name="delay" value="180" />
+        </canvas>
+        <canvas name="4" width="67" height="86">
+            <vector name="origin" x="37" y="96" />
+            <int name="z" value="0" />
+            <int name="delay" value="180" />
+        </canvas>
+        <canvas name="5" width="68" height="87">
+            <vector name="origin" x="36" y="96" />
+            <int name="z" value="0" />
+            <int name="delay" value="180" />
+        </canvas>
+    </imgdir>
+    <imgdir name="move">
+        <uol name="0" value="../../9133146/stand/0" />
+        <uol name="1" value="../../9133146/stand/1" />
+        <uol name="2" value="../../9133146/stand/2" />
+        <uol name="3" value="../../9133146/stand/3" />
+        <uol name="4" value="../../9133146/stand/4" />
+        <uol name="5" value="../../9133146/stand/5" />
+    </imgdir>
+</imgdir>

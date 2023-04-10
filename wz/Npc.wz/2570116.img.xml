@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="2570116.img">
+    <imgdir name="info">
+        <int name="hideName" value="1" />
+        <canvas name="default" width="101" height="121">
+            <vector name="origin" x="50" y="60" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="228" height="192">
+            <vector name="origin" x="-212" y="-6" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="232" height="228">
+            <vector name="origin" x="-208" y="32" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="708" height="236">
+            <vector name="origin" x="268" y="38" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="1252" height="780">
+            <vector name="origin" x="812" y="525" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="1252" height="756">
+            <vector name="origin" x="812" y="525" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="1252" height="720">
+            <vector name="origin" x="812" y="525" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="1252" height="720">
+            <vector name="origin" x="812" y="525" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="1172" height="720">
+            <vector name="origin" x="732" y="525" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="8" width="1096" height="720">
+            <vector name="origin" x="704" y="525" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="9" width="756" height="712">
+            <vector name="origin" x="356" y="525" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="10" width="876" height="732">
+            <vector name="origin" x="512" y="454" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="11" width="796" height="568">
+            <vector name="origin" x="412" y="371" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="12" width="800" height="576">
+            <vector name="origin" x="360" y="380" />
+            <int name="z" value="0" />
+        </canvas>
+    </imgdir>
+    <imgdir name="regen2">
+        <canvas name="0" width="216" height="144">
+            <vector name="origin" x="-136" y="109" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="248" height="188">
+            <vector name="origin" x="-134" y="152" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="616" height="540">
+            <vector name="origin" x="176" y="506" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="1012" height="576">
+            <vector name="origin" x="571" y="506" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="1000" height="564">
+            <vector name="origin" x="562" y="509" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="1000" height="540">
+            <vector name="origin" x="559" y="506" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="992" height="540">
+            <vector name="origin" x="553" y="506" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="916" height="524">
+            <vector name="origin" x="477" y="490" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="8" width="712" height="504">
+            <vector name="origin" x="459" y="468" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="9" width="492" height="484">
+            <vector name="origin" x="233" y="457" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="10" width="568" height="452">
+            <vector name="origin" x="334" y="363" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="11" width="520" height="348">
+            <vector name="origin" x="269" y="312" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="12" width="584" height="396">
+            <vector name="origin" x="236" y="363" />
+            <int name="z" value="0" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+    <imgdir name="regen3">
+        <canvas name="0" width="624" height="492">
+            <vector name="origin" x="346" y="292" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="1" width="564" height="280">
+            <vector name="origin" x="328" y="253" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="2" width="504" height="428">
+            <vector name="origin" x="256" y="249" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="3" width="612" height="452">
+            <vector name="origin" x="204" y="244" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="4" width="568" height="524">
+            <vector name="origin" x="308" y="340" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="5" width="520" height="456">
+            <vector name="origin" x="285" y="257" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="6" width="612" height="488">
+            <vector name="origin" x="199" y="297" />
+            <int name="z" value="0" />
+        </canvas>
+        <canvas name="7" width="732" height="600">
+            <vector name="origin" x="350" y="421" />
+            <int name="z" value="0" />
+        </canvas>
+        <int name="special" value="1" />
+    </imgdir>
+</imgdir>

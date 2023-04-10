@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="0411.img">
+    <imgdir name="04110005">
+        <imgdir name="info">
+            <canvas name="icon" width="35" height="34">
+                <vector name="origin" x="1" y="33" />
+            </canvas>
+            <canvas name="iconRaw" width="35" height="34">
+                <vector name="origin" x="1" y="33" />
+            </canvas>
+            <int name="notSale" value="1" />
+            <int name="price" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="MFabric" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="04110006">
+        <imgdir name="info">
+            <canvas name="icon" width="35" height="34">
+                <vector name="origin" x="1" y="33" />
+            </canvas>
+            <canvas name="iconRaw" width="35" height="34">
+                <vector name="origin" x="1" y="33" />
+            </canvas>
+            <int name="notSale" value="1" />
+            <int name="price" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="MFabric" value="1" />
+            <int name="tradeBlock" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="04110007">
+        <imgdir name="info">
+            <canvas name="icon" width="35" height="34">
+                <vector name="origin" x="1" y="33" />
+            </canvas>
+            <canvas name="iconRaw" width="35" height="34">
+                <vector name="origin" x="1" y="33" />
+            </canvas>
+            <int name="notSale" value="1" />
+            <int name="price" value="1" />
+            <int name="timeLimited" value="1" />
+            <int name="slotMax" value="1" />
+            <int name="MFabric" value="1" />
+            <int name="accountSharable" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="04110010">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="27">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="32" height="23">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <int name="pachinko" value="1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="04110021">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="28">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <canvas name="iconRaw" width="32" height="23">
+                <vector name="origin" x="0" y="28" />
+            </canvas>
+            <int name="pachinko" value="1" />
+        </imgdir>
+    </imgdir>
+</imgdir>

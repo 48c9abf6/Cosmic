@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="9001166.img">
+    <imgdir name="info">
+        <imgdir name="speak">
+            <string name="0" value="n0" />
+            <string name="1" value="n1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="75" height="116">
+            <vector name="origin" x="35" y="116" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="75" height="116">
+            <vector name="origin" x="35" y="116" />
+            <int name="z" value="0" />
+            <int name="delay" value="300" />
+        </canvas>
+        <canvas name="1" width="75" height="118">
+            <vector name="origin" x="39" y="118" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="84" height="116">
+            <vector name="origin" x="48" y="116" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="3" width="88" height="117">
+            <vector name="origin" x="52" y="117" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="4" width="84" height="116">
+            <vector name="origin" x="48" y="116" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="5" width="88" height="117">
+            <vector name="origin" x="52" y="117" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <uol name="6" value="0" />
+        <uol name="7" value="1" />
+        <uol name="8" value="2" />
+        <uol name="9" value="3" />
+        <uol name="10" value="4" />
+        <uol name="11" value="5" />
+        <int name="hideQuestBalloon" value="1" />
+        <imgdir name="speak">
+            <string name="0" value="d0" />
+            <string name="1" value="d1" />
+        </imgdir>
+    </imgdir>
+    <imgdir name="dance">
+        <canvas name="0" width="75" height="116">
+            <vector name="origin" x="35" y="116" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="1" width="75" height="117">
+            <vector name="origin" x="36" y="117" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="2" width="75" height="116">
+            <vector name="origin" x="37" y="116" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <canvas name="3" width="75" height="117">
+            <vector name="origin" x="36" y="117" />
+            <int name="z" value="0" />
+            <int name="delay" value="150" />
+        </canvas>
+        <uol name="4" value="0" />
+        <uol name="5" value="1" />
+        <uol name="6" value="2" />
+        <uol name="7" value="3" />
+    </imgdir>
+</imgdir>
